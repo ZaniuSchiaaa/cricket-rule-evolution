@@ -1,0 +1,1979 @@
+﻿L i ftiWy
+16th Edition.
+by
+
+THE
+LAWS
+OF CRICKET
+OFFICIAL
+London :
+I Printed by the Marylebone Cricket Club,
+1939.
+All Rights Reserved.
+Price: NINEPENCE POST FREE.
+THE LAWS OF CRICKET,
+with
+DECISIONS AND INTERPRETATIONS
+AUTHORIZED . BY THE M.C.C.
+together with
+RULES
+of the following bodies :
+Imperial Cricket Conference,
+Board of Control of Test Matches at Home,
+Advisory County Cricket Committee,
+Minor Counties’ Cricket Association.
+CONTENTS.
+Page
+Preface................................... 2
+Laws of Cricket .. .. 3
+One-Day Matches .. 18
+Single Wicket .. .. 19
+Notes for Scorers and Umpires 20
+Regulations for drying Wickets in England 21
+Imperial Cricket Conference .. 22
+Board of Control of Test Matches at Home 23
+Advisory County Cricket Committee 26
+Classification of Counties .. 27
+The County Championship 27
+Rules of County Cricket .. 27
+Minor Counties’ Cricket Association 3)
+Index .. . .. .. .. 33
+PREFACE
+During the last two hundred years the conduct of the game of Cricket has
+been governed by a series of Codes of Laws. These Codes were established
+as indicated below, and were at all times subject to additions and alterations
+ordained by the governing authorities of the time. Since its formation in 1787 the
+Marylcbone Cricket Club has been recognised as the sole authority for drawing
+up the Code and for all subsequent alterations.
+There is little doubt that Cricket was subject to recognised rules as early as
+1700, though the earliest known Code is that drawn up in 1744 by certain Noble-
+men and Gentlemen who used the Artillery Ground in London. These Laws
+were revised in 1755 by “ Several Cricket-Clubs, particularly that of the Star and
+Garter in Pall-Mall.”
+The next arrangement was produced by “ a Committee of Noblemen and
+Gentlemen of Kent, Hampshire, Surry, Sussex, Middlesex and London,” at the
+Star and Garter on February 25th, 1774, and this in turn was revised by a similar
+body in February 1786.
+On May 30th, 1788, the first M.C.C. Code was adopted, and remained in force
+until May 19th, 1835, when a new Code of Laws was approved by the Committee.
+The Laws appear to have been first numbered in 1828.
+The 1835 Code, amended in detail from time to time, stood until the 21st April,
+1884, when the present one was adopted at a Special General Meeting of the M.C.C.
+Under the Rules of the Marylcbone Cricket Club the Laws of Cricket can
+only be changed by the vote of two thirds of the members present and voting at a
+Special General Meeting, of which due notice is required to be given.
+From time to time the Committee of the M.C.C. arc required to give interpre-
+tations on points of difficulty arising from the Laws, and these arc given in the
+form of notes to the Laws themselves.
+This sixteenth edition of the Laws of Cricket, etc., is rendered necessary by
+changes in the Laws of the game, in the Rules governing International and County
+Cricket, and by additions to the notes, interpretations and other details.
+The opportunity has been taken of improving the reference value of the
+publication by the inclusion of an Index, and by the lettering and sub-division of
+the notes to the Laws. These changes, however, have not in any way affected
+the primary purpose of the book as expressed by Sir Francis Lacey (Secretary of
+the M.C.C. from 1898 to 1926) in the previous editions
+"The aim of this publication is to remove difficulties, which arc known to
+exist, although they are not always apparent. Hundreds of cases are sent to the
+M.C.C. for decision every year. It is from this source that the chief difficulties
+have become manifest. Saturday and League Matches arc especially productive
+of disputes, and it is hoped that those who read these notes may find an answer
+to any doubt which may arise as to the proper interpretation of the Laws of
+Cricket.”
+R. S. RAIT KERR,
+Secretary, M.C.C.
+Lord’s Cricket Ground •
+London. N.W.8.
+1*7 March. 1939.
+3
+THE LAWS OF CRICKET.
+As Revised by the Marylebone Cricket Club,
+together with
+Authorized Decisions and Interpretations.
+(The Laws us given were originally brought into operation by the decision of a
+Special General Meeting of the M.C.C. on 21st April, 1884. The dates of
+all subsequent alterations arc stated immediately below each Law.)
+THE GAME.
+1.—A Match is played between two sides of eleven players each,
+unless otherwise agreed to ; each side has two innings, taken
+alternately, except in the case provided for in Law 53. The choice
+of innings shall be decided by tossing.
+RUNS.
+2.—The score shall be reckoned by runs. A run is scored :—
+1st—So often as the Batsmen, after a hit, or at any time
+while the ball is in play, shall have crossed, and made
+good their ground from end to end.
+2nd—For penalties under Laws 16, 34, 41, and allowances
+under 44.
+Any run or runs so scored shall be duly recorded by scorers
+appointed for the purpose.
+The side which scores the greatest number of runs wins the
+match. No match is won unless played out or given up, except in
+the case provided in Law 45.
+NOTES.
+(a)	Neither side can be compelled to continue after'the match is finished.
+(See also Law 13, Note (<•).)
+(b)	A " tie ” match is one in which the scores arc equal when “ time ’’ has
+been reached, but only if the match has been played out or if the side to bat last
+has commenced that innings.
+In onc-day matches a “ tic ” can only apply to the first innings result if the
+match has not been carried to a further conclusion.
+APPOINTMENT OF UMPIRES.
+3.—Before the commencement of the match two Umpires shall
+be appointed ; one for each end.
+(Sec Law 43.)
+NOTES.
+(n) It should be noted, especially in lower grade matches, that umpires are
+appointed “ one for each end ” and not one for each side.
+(d) An umpire should stand where he can clearly sec the act upon which his
+decision may be required.
+An umpire wishing to stand on the off side of the wicket instead of the leg side
+should obtain the permission of the captain of the fielding side.
+(c)	Umpires shall agree between themselves, before play, what watch or clock
+they will follow in deciding intervals and close of play.
+(d)	Save as provided by the Laws, the umpires have no right to interfere in
+the progress of the game except on appeal, or under the provision of Law 43,
+Note (a) (i).
+(c)	All umpires shall report themselves to the Manager of the ground 30
+minutes before the commencement of each day’s play and they shall make a point
+of seeing that the wickets, bats and balls arc in accordance with the Laws of the
+game (using measuring tapes and gauges if necessary), and they must remember
+that the conduct of the game and the state of the ground is within their jurisdiction.
+(/) It is not the scorer’s business to dictate to the umpire. The umpire shall
+direct the scorer what to record.
+4
+THE BALL.
+4.—The Ball shall weigh not less than five ounces and a half,
+nor more than five ounces and three-quarters. It shall measure not
+less than eight and thirteen-sixtccnths inches, nor more than nine
+inches in circumference. At the beginning of each innings either
+side mav demand a new ball.
+(.Revised 4th May, 1927.)
+(See also Law 3, Note (e).)
+NOTES.
+(a)	In the event of the umpires agreeing that a ball in use is unfit for play
+they shall have power to allow another ball (as much as possible like the one
+discarded) to be substituted.
+(6) After 200 runs have been made with a ball in First-class or Minor County
+matches, the fielding side can demand a new one. This regulation is optional
+in other grades of cricket. The umpires shall inform the batsmen when a new
+ball is about to be used.
+(c) All cricket balls used in County cricket matches should be submitted
+to and approved by the captains of the competing sides before the matches begin.
+THE BAT.
+5.—The Bat shall not exceed four inches and one-quarter in the
+widest part ; it shall not be more than thirty-eight inches in length.
+(Sec also Law 3, Note (e).)
+THE WICKETS.
+,6.—-The Wickets shall be pitched opposite and parallel to each
+other at a distance of twenty-two yards. Each wicket shall be not
+less than eight inches nor more than nine inches in width, and consist
+of three stumps, with two bails upon the top. The stumps shall be
+of equal and of sufficient size to prevent the ball from passing
+through, not less than twenty-seven inches nor more than twenty-
+eight inches out of the ground. The bails shall be each not less than
+four inches nor more than four inches and a half in length, and when
+in position, on the top of the stumps, shall not project more than
+half-an-inch above them. The wickets shall not be changed during
+a match, unless the ground between them become unfit for play,
+and then only by consent of both sides.
+(Revised 6th May, 1931.)
+(See also Law 3, Note (c).)
+NOTES.
+(a)	In all First-class cricket and in all matches in which teams selected by
+governing bodies of Cricket are engaged, each wickci shall be nine inches in
+width, the stumps twenty-eight inches out of the ground and the bails four inches
+and a half in length.
+(b)	The use of stumps with metal heads or fittings is a source of danger, and
+though permissible should not be encouraged.
+(c)	In a high wind, the captains may agree, with the approval of the umpires,
+to dispense with the use of bails, in which case Law 20 must be modified.
+THE BOWLING CREASE.
+7.—The Bowling crease shall be in a line with the stumps ;
+eight feet eight inches in length ; the stumps in the centre ; with a
+Return crease at each end, at right angles behind the wicket.
+(Revised 7th May, 1902.)
+NOTE
+(a)	The Return crease is shortened for convenience. It must be deemed
+unlimited in length.
+5
+THE POPPING CREASE.
+8.—The Popping crease shall be marked four feet from the
+wicket, parallel to it, and be deemed unlimited in length.
+NOTE.
+(«) The distance shall be four feet from the centre of the stumps to the inside
+edge of the Popping crease.
+THE GROUND.
+9.—The Ground shall not be rolled, watered, covered, mown, or
+beaten during a match, except before the commencement of each
+innings and of each day’s play, when, unless the In-Side object, the
+ground shall be swept and roiled for not more than seven minutes.
+This shall not prevent the batsman from beating the ground with
+his bat, nor the batsmen nor bowler from using sawdust in order to
+obtain a proper foothold.
+(Revised 6th May, 1931.)
+• NOTES.
+(a)	(i) Prior to tossing for innings, the executive of the ground on which
+a match is to be played is responsible for the selection and preparation of the
+wicket.
+(li) The batting side has a right to have the ground swept and rolled for not
+more than seven minutes immediately before the commencement of each, day’s
+play. It is the duty of the captain to sec that his side obtain this advantage. The
+ground in this Law means the “ pitch.’’ The responsibility of supervising the
+rolling of the pitch before play will in the first place rest with the umpires, who,
+however, arc not obliged to stand near the wicket in order to supervise the rolling.
+which must be completed so as to allow the play to commence at the stipulated
+time.
+(b)	In week-end starts the wicket shall be mown, under the supervision of the
+umpires, on the first day on which the match is resumed.
+(c)	Before and after the actual commencement of play the ground may be
+protected when necessary, and shall be protected every night during the cont-
+inuation of a match, but the covering shall be removed each morning, if fine,
+at 7 o’clock. The covering must not protect more than 3 ft. 6 ins. in front of the
+Popping crease.
+(</) In order to facilitate play at the earliest possible moment in wet weather
+the umpires shall see that the foot holes made by the bowlers and batsmen are
+cleaned out, dried, and filled up with sawdust at any time during the match,
+although the game is not actually in progress.
+ADDITIONAL LAW FOR AUSTRALIA,
+NEW ZEALAND AND SOUTH AFRICA.
+9*.—In the event of rain falling on any day after the commence-
+ment of a Match prior to or during the currency of that day’s play
+the groundman shall cause the wicket to be swept and rolled for not
+more than ten minutes after the close of that day’s play, at any time
+before the commencement of the next day's play, whenever he is of
+the opinion that such rolling will improve the wicket, and he will use
+such roller, after consultation with the two captains, as he thinks
+best calculated to produce that effect. This sweeping and rolling
+shall not affect the right to sweep and roll provided for in Law 9 of
+the Laws of Cricket.
+(Introduced 3rd May, 1922. Application extended to New Zealand
+7th May, 1924, and to South Africa 2nd May, 1928.)
+NOTE.
+(a)	In all First-class matches, and whenever possible in other cases, the
+executive of the ground will appoint a responsible officer to supervise an) rolling
+carried out under Law 9’.
+6
+THE BOWLERS.
+“ NO BALL.”
+10.—The Ball must be bowled ; if thrown or jerked either
+Umpire shall call “ No Ball.”
+(Revised 30th October, 1899.)
+NOTE.
+(a)	It is a " No Ball ” if, when about to deliver the ball, the bowler, seeing
+the striker out of his ground, throws the ball at the striker’s wicket.
+11.—The Bowler shall deliver the Ball with one foot on the
+ground behind the Bowling crease, and within the Return crease,
+otherwise the Umpire shall call “ No Ball.”
+NOTES.
+(a)	A bowler may bowl with both feet behind the Bowling crease provided
+that one foot is within the Return crease. When part of the bowler’s back foot
+is grounded on or outside the Return crease the umpire shall call “ No Ball,”
+unless the other foot is behind the Bowling crease and within the Return crease.
+One foot must be grounded behind the Bowling and within the Return crease
+when the ball is delivered.
+(b)	If a bowler knock the wicket with his foot in delivering the ball and
+remove a bail or bails such act docs not in itself justify an umpire in calling
+” No Ball.”
+(c)	Many bowlers deliver the ball with the toe of the back foot pointing
+towards the near wicket, and with the heel towards and over the Return crease.
+If the bowler so delivers the ball with the heel on the ground, the umpire shall
+“ No Ball ” him, the foot not being entirely within the Return crease. If he
+delivers with the heel raised off the ground and keeps that part of his foot which
+is on the ground within the Return crease the delivery is allowed as fair.
+(</) If the bowler in running up to deliver the ball allows it to slip from his
+hand before delivery, the umpire, at his discretion, may allow him to bowl again
+without penalty or interference.
+(c) The umpire in this Law refers to the umpire at the bowler’s wicket.
+‘‘WIDE BALL.”
+12.—If the Bowler shall bowl the Ball so high over or so wide of
+the wicket, that in the opinion of the Umpire, it is not within reach
+of the Striker, the Umpire shall call “ Wide Ball.”
+NOTES.
+(«) The test for the umpire to apply in deciding if the ball is wide is whether
+it is within reach of the striker.
+When a ball has been delivered but remains stationary before reaching the
+striker no runs can be added to the score, unless it has been struck by the striker.
+The striker has a right to hit the ball without interference by the field. The
+umpire must decide if the ball has been ** delivered.”
+(b)	If the striker hit a ball which has been called “ Wide ” the call shall be
+ignored.
+(c)	When only one run has been made front a “ Wide Ball ” the batsmen
+do not cross over to the positions they were in before the run was made.
+(d)	When a “ Wide ” is called the ball does not on that account become
+“dead ” and the batsman may be out under Laws 23, 25, 28, 29 and 30.
+‘‘THE OVER.”
+13.—The Ball shall be bowled in Overs of six balls from each
+wicket alternately. When six balls have been bowled, and the ball
+is finally settled in the Bowler’s or Wicket-keeper’s hands, the
+Umpire shall call “ Over.” Neither a “ No Ball ” nor “ Wide Ball ”
+shall be reckoned as one of the “ Over.”
+(For Australia and New Zealand only, in lines 1 and 2 for “ six” substitute
+” eight.”)
+Revised 1st May. 1889 ; 2nd May, 1900 ; 3rd May, 1922 : 7th May, 1924.)
+1
+NOTES.
+(«) It is customary for the umpire to call " Over ” after the last ball of the
+over, when it is clear that both sides are satisfied to consider the ball as “dead,”
+even though it has not finally settled in the bowler’s or wicket-keeper's hands.
+(6) This Law should be read with Law 16, in which, though provision is made
+that the striker may obtain runs from a “No Ball,” the fact remains that neither
+a “ No Ball ” nor “ Wide Ball ” shall be reckoned as one of the over.
+Although not counted in the over, “ No Balls ” and “ Widcs ” shall be recorded
+in their proper place on the score sheet.
+(c) A ball shall not count as one of the over nor shall any runs be scored in
+the following circumstances :—
+(i)	If both bails have been blown of! the striker’s wicket before he plays
+his stroke.
+(ii)	If the bowler in running up to deliver the ball allows it to slip from
+his hand before delivery.
+(J) It is the umpire’s and not the scorer’s duty to call “ Over.”
+At the end of an over the umpire at the bowler’s wicket shall distinctly call
+“Over” before leaving the wicket.
+(c) (i) An over should always be begun if “ lime " has not been reached
+and the umpires shall not call “Time” before the over is finished except as hereafter
+provided. ,
+An over should always be finished, unless a wicket fall within two minutes
+of “ time ” (sec Law 45), or unless there is a local rule extending the time.
+(n) If a wicket fall within two minutes of “time” the umpires shall call
+“ Time,” unless the incoming batsman claims his right to bat for the time re-
+maining. If a wicket fall after "time” has been reached the umpires shall call
+“ Time.”
+(/) If a bowler is injured so that he cannot finish the over he has begun, the
+over shall be regarded as completed.
+(g) A bowler can bowl round and over the wicket in the same over ; but he
+shall give the batsman an opportunity of taking a fresh guard. The same remarks
+apply to a change from over to underarm bowling, or vice versa.
+The umpire is justified in calling “ No Ball ” in the event of contravention of
+this instruction.
+CHANGING ENDS.
+14.—The Bowler shall be allowed to change ends as often as he
+pleases, provided only that he does not bowl two Overs consecutively
+in one innings. 1« May. 1889.)
+15.—The Bowler may require the Batsman at the wicket from
+which he is bowling to stand on that side of it which he may direct.
+SCORING OF “NO BALLS’’ AND “ WIDES.’’
+16.—The Striker may hit a “ No Ball,’’ and whatever runs result
+shall be added to his score ; but he shall not be out from a “ No Ball,”
+unless he be run out or break Laws 26, 27, 29, 30. All runs made
+from a “ No Ball,” otherwise than from the bat, shall be scored
+“ No Balls,” and if no runs be made one run shall be added to that
+score. From a “ Wide Ball,” as many runs as are run shall be
+added to the score as “ Wide Balls,” and if no run be otherwise
+obtained one run shall be so added.
+(See Laws 13 and 28 and Notes thereto.)
+NOTES.
+(a)	A batsman cannot be stumped off a “ No Bali ’’ (Law 16). The Laws of
+Cricket clearly make a distinction between the wicket-keeper and the fieldsmen
+and between eases of “ stumping ” and “ run out ” (see Laws 23 and 28).
+When a “ No Ball ” has been called it must be Jell to the umpire to decide,
+on the facts before him, whether the ease is one of “slumping” (under Law 23,
+or “ run out ” (under Law 28).
+8
+(b)	When a run is made by the bat of!’ a “ No Ball,” only the run to the bats-
+man should be scored and not the “ No Ball ” as well. When a run has been made
+off a “ No Ball,” the run should be added to the score of the striker although the
+ball has been caught. If one run is attempted and the batsman is run out, the
+" No Ball ” alone counts. If runs arc made off a “ No Ball,” although the runs are
+scored and not the “ No Ball,” the bowler is allowed another delivery.
+(c)	When ” Byes ” or “ Overthrows ” arc run from a “ Wide ” they arc
+scored as “ Wides.”
+“BYE” AND “LEG BYE.”
+17.—If the ball, not having been called “ Wide ” or “ No Ball,”
+pass the Striker without touching his bat, or person, and any runs
+lx? obtained, the Umpire shall call “ Bye ” ; but if the ball touch
+any part of the Striker’s person (hand excepted) and any run be
+obtained, the Umpire shall call “ Leg Bye,” such runs to be scored
+“ Byes ” and “ Leg Byes ” respectively.
+NOTE.
+(a)	If the striker kicks the ball wilfully, no runs shall be scored.
+, “ PLAY.”
+18.—At the beginning of the match, and of each innings, the
+Umpire at the Bowler’s wicket shall call “ Play ” ; from that time
+no trial ball shall be allowed to any bowler on the ground between
+the wickets, and when one of the batsmen is out, the use of the bat
+shall not be allowed to any person until the next batsman shall
+come in.
+NOTE.
+(a)	Trial balls, if both batsmen are at the wickets, arc not allowed.
+THE BATSMEN.
+“OUT OF HIS GROUND.”
+19.—A Batsman shall be held to be “ out of his ground,” unless
+his bat in hand, or some part of his person be grounded within the
+line of the Popping crease.
+NOTE.
+(o) It is sufficient if part of the batsman’s foot is grounded within the line. If
+the foot is on the line, but no part is within, the batsman would be “ out of his
+ground.”
+WICKET IS “DOWN.”
+20.—The wicket shall be held to be “ down,” when either of the
+bails is struck off, or if both bails be off, when a stump is struck
+out of the ground.
+NOTES.
+(o) The wicket is “ down ” under this Law if any part of either bail is “ struck
+off” the top of the wicket.
+An umpire is justified in ruling that part of a bail has been “ struck off,” if
+as a result of the wicket being hit any part of cither bail has been disturbed from
+its original position on the top of the stumps.
+(b)	If one bail is off, it is sufficient to remove the remaining one with the ball
+in order to stump or run a batsman out.
+(c)	Although the Law says nothing about the stumps being pulled out, it is
+customary to run a batsman out in this way when the bails arc off : but the ball
+must be in the fieldsman’s hand when he uses it for this purpose. (See also
+Law 28).
+(t/) If one bail has fallen from the stumps, and a ball, having been cither
+bowled or thrown in, strikes a stump without displacing the remaining baiK the
+wicket is not “down” unless that stump is struck out of the ground
+9
+(e)	If, owing to the strength of the wind, the captains have agreed to dispense
+with the use of bails (see Law 6, Note (c)), the decision as to when a wicket if
+“ down ’* is one for the umpires to decide on the facts before them. (In such
+circumstances the wicket would be held to be “ down ” even though a stump has
+not been struck out of the ground.)
+(/) If the wicket is broken while the ball is in play, the umpires arc not
+justified in remaking the wicket until the ball has become “ dead.” A fieldsman,
+however, is not debarred from remaking the wicket in such circumstances.
+“ BOWLED.”
+The Striker is Out—
+21.—If the wicket be bowled down, even if the ball first touch
+the Striker’s bat or person ;—“ Bowled.”
+NOTES.
+(a)	An umpire is justified in giving the striker out " Bowled ” when a stump
+is bowled down, even though the bails by some mischance remain in position.
+'b) The striker having played the ball is out “ Bowled ” if he then kicks the
+ball on to his wicket.
+“CAUGHT.”
+22.—Or, if the ball, from a stroke of the bat or hand, but not the
+wrist, he held before it touch the ground, although it be hugged to
+the body of the catcher ;—“ Caught.”
+(See Note to Law 32.)
+' NOTES.
+(n) The ball must not touch the ground before it is held : but the hand
+holding the ball may touch the ground in effecting the catch.
+(b)	When a fieldsman catches a ball and falls and the ball touches the ground,
+it is a question of fact for the umpire to decide whether or not the catch was com-
+pleted before the ball touched the ground.
+(c)	When a batsman plays a ball on to the ground and in order to prevent
+it hitting the wicket, after touching the ground, he strikes it again and the ball is
+caught, the batsman is not out. But if he hit the ball a second time before it
+touches the ground and is caught, he would be out under this Law.
+(d)	A batsman is out if caught off a ball which before striking the bat had
+hit his pad.
+O’) If no boundaries have been arranged a striker can be caught off a tree,
+hedge or building.
+(f)	The striker is out if the ball is “ hugged to the body of the catcher ”
+even though he has not touched it \vi»h his bands. Should the ball lodge in the
+fieldsman’s clothing, or in the top of the wicket-keeper’s pads, this will amount
+to its being “ hugged to the body of the catcher.”
+(g)	The striker is out “ Caught;” although before the catch is held the ball
+after touching a fieldsman has removed a bail at the non-strikcr’s end, the non-
+striker being out of his ground.
+“ STUMPED.”
+23.—Or, if in playing at the ball, provided it be not touched by
+the bat or hand, the Striker be out of his ground, and the wicket
+be put down by the wicket-keeper with the ball, or with hand or arm
+with ball in hand •—“ Stumped.”
+NOTES.
+(a)	If the ball »cbounds oil the pad or person of the wicket-keeper, without
+having first touched the ba- or hand of the striker, and the striker is out of his
+ground, the decision shall be ” Stumped ” and not ” Run Out."
+(b)	It is sufficient for the wicket-keeper to remove one bail in order to stump
+a batsman.
+It is not out if he knocks the bails off with his foot or with an arm or hand nd!
+holding the ball.
+10
+“ L.B.W.”
+24.—Or, if with any part of his person (except his hand) which
+is between wicket and wicket he intercept a ball which, in the
+opinion of the Umpire at the Bowler’s wicket, shall have been
+pitched in a straight line from the Bowler’s wicket to the Striker’s
+wicket or shall have been pitched on the off side of the Striker’s
+wicket and would have hit it ;—“ Leg before wicket.”
+(Revised 5th May, 1937.)
+NOTES.
+(a)	There are four considerations which an umpire must bear in mind :
+(i)	Would the ball have hit the wicket ?
+(ii)	Did it pitch on the offside of the striker’s wicket or in a straight line
+between wicket and wicket ?
+(iii)	Was it part of the batsman’s person other than the hand, .which
+• first intercepted the ball ?
+(iv)	Was that part of the batsman’s person between wicket and wicket at
+the moment of impact ?
+If all these questions arc answered in the affirmative the batsman is out.
+(b)	A batsman may be out L.B.W., although the bowler is bowling round
+the wicket, if the case comes within this Law.
+(c)	It is immaterial whether the ball breaks or not. It is sometimes only
+possible for a bowler bowling round the wicket to obtain an L.B.W. with a breaking
+ball.
+(J) The striker shall not be given out L.B.W. if the ball has touched his bat or
+hand before hitting his person. (See Law 27.)
+(r) The umpire is justified in giving the batsman out L.B.W., if in playing
+at the ball the striker’s hat blew off and deflected the course of the ball which
+otherwise would have hit his wicket, all the requirements of Law 24 having been
+fulfilled.
+(/) The word “ person ” in the Law includes the striker’s dress.
+“HIT WICKET.”
+25.—Or, if in playing at the ball he hit down his wicket with his
+bat or any part of his person or dress ;—“ Hit Wicket.”
+NOTES.
+(a)	If, in making a second stroke to keep the ball out of his wicket, the
+striker hit down his wicket as above, he is out.
+(b)	If, while playing at the ball, but not otherwise, the striker's hat or cap
+falls on the wicket and dislodges a bail, he is out.
+(c)	If, while playing at the ball, a part of the striker’s bat breaks his wicket.
+he Is out.
+(d)	A batsman as not out for breaking the wicket cither with his bat or person
+when in the act of running.
+“OBSTRUCTING THE FIELD.”
+26.—Or, if under pretence of running, or otherwise, either of the
+batsmen wilfully prevent a ball from being caught ;—“ Obstructing
+the field.”
+NOTES.
+(a) j It should be noted that it is the striker who is out if this Law is infringed.
+(b)	The correct entry in the score book when the striker is given out under
+this Law is “ Obstructing the field,” and the bowler docs not get credit for the
+wic cet.
+“ HIT THE BALL TWICE.”
+27.—Or, if the ball be struck or be stopped by any part of his
+person,, and he wilfully strike it again, except it be done for the
+purpose of guarding his wicket, which he may do with his bat or
+any part of his nerson, excent his hands ;—“ Hit the ball twice.”
+11
+NOTES.
+(«) It is for the umpire to decide whether the ball has been struck “ wilfully ”
+for some purpose other than that of guarding the wicket. The fact that a run
+is attempted may be evidence of the batsman’s intention to take advantage of
+the second stroke, and the umpire is entitled to regard it as such, but it is not
+conclusive.
+(b)	The spirit of this Law is infringed by the striker, if, after playing the ball,
+he knocks it back to the bowler, although his wicket is in no danger.
+(c)	If the ball has been lawfully struck twice and an overthrow is made, the
+striker is entitled to the runs which follow.
+(d)	A striker may be out for hitting the ball twice, although no run is
+attempted. {See also Law 22, Note (c).)
+“RUN OUT.’’
+Either Batsman is Out—
+28.—If in running, or at any other time, when the ball is in play
+he be out of his ground, and his wicket be struck down by the ball
+after touching any fieldsman, or by the hand or arm, with ball in
+hand, of any fieldsman ;—“ Run out.” But the Striker may not be
+out thus, unless the bail has touched the bat or hand, when, in playing
+at a “ No Ball ” he be out of his ground and the wicket be put down
+by the wicket-keeper with the ball, or with hand or arm with ball
+in hand.
+{Revised 1st May, 1912.)
+{See Law 31, and Notes to Laws 20 and 35.)
+NOTES.
+(a) For a definition of” out of his ground ” see Law 19 and Note.
+(b)	At any time when the ball is in play either batsman can be " run out'
+by any fieldsman, including the bowler.
+(c)	It is not out if the striker hits the ball into the opposite wickets—the
+other batsman being out of his ground—unless the ball had been touched by a
+fieldsman after being hit and before striking the wickets.
+(</) It is sufficient for a fieldsman, either by throwing, or with the ball in the
+hand used for the purpose, to temovc one bail in order to “ run out ” a batsman.
+“ HANDLED THE BALL.”
+29.—Or, if he touch with his hands or take up the ball while in
+play unless at the request of the opposite side ;—“ Handled the ball.”
+NOTE.
+(«) The correct entry in the sccre book when a batsman is given out under
+this Law is “ Handled the ball," and ihc bowler does not get credit for the wicket.
+“OBSTRUCTING THE FIELD.”
+30.—Or, if he wilfully obstruct any fieldsman “ Obstructing
+the field.”
+{See Law 26, Mote (6).)
+NOTE.
+(a) The umpire must decide on the fact-, before him if the obstruction was
+“ wilful.”
+“ BATSMEN CROSSING.”
+31.__if the batsmen have crossed each other, he that runs for the
+wicket which is put down is out ; if they bave not crossed he that
+has left the wicket which is put down is out.
+12
+“ RUNS.”
+32.—The Striker being caught no run shall be scored. A Batsman
+being run out, that run which was being attempted shall not be
+scored.
+(See Notes to Law 22.)
+NOTE.
+(a)	Although that run which is being attempted shall not be scored, (he
+remaining batsman does not resume his position at the wicket he has left, if he
+and his partner have crossed.
+“ DEAD BALL.”
+33A.—Batsman being out from any cause, the ball shall be
+“ Dead.”
+33B.—If the Ball, whether struck with the bat or not, lodges in
+a Batsman’s clothing, the ball shall become “ Dead.”
+(Introduced 3rd May, 1899.)
+“ LOST BALL.”
+34.—If a ball in play cannot be found or recovered, any fieldsman
+may call “ Lost Ball,” when the ball shall be “ Dead ” ; six runs
+shall be added to the score ; but if more than six runs have been
+run before “ Lost Ball ” has been called, as many runs as have been
+run shall be scored.
+NOTE.
+(a) A lost ball should be replaced by one in a similar condition.
+“ DEAD BALL, ETC.”
+35.—After the ball shall have been finally settled in the Wicket-
+keeper's or Bowler's hand, it shall be “ Dead ” ; but when the
+Bowler is about to deliver the ball, if the Batsman at his wicket be
+out of his ground before actual delivery, the said Bowler may run
+him out ; but if the Bowler throw at that wicket and any run result.
+it shall be scored “ No Ball.”
+NOTES.
+(a) Whether the ball is “ finally settled ” is a question of fact for the umpire
+only to decide. (See Law 13. Note (a).)
+(b)	A bowler may run a batsman out, without having delivered the ball, in
+any way authorized by the Laws. He may have passed the Bowling crease in
+his run, or may change the ball from one hand to the other, before throwing at the
+wicket or knocking off the bails. The bails may be knocked olT from cither side
+of the wickets.
+(c)	If the bowler throws the ball at the wicket with the object of running
+out the batsman at his end, such a throw does not constitute a ** No Ball,” and
+the ball not having been delivered docs not ccsint as one of the over. If, however,
+runs result from such action on the part of the bowler, they arc to be credited
+to ** No Balls” in the score book in accorJancc with Law 16.
+GENERAL NOTES ON LAWS 33A TO 35 INCLUSIVE.
+(d)	A ball can only become “ dead ” under Laws 33A, 33B, 34, 35 including
+NoteC/), 41 and 50, or on the call of a boundary.
+(e)	A ball does not become ” dcid ” when the bails arc off or the wickets
+struck down or because an unsuccessful appeal has been made to the umpire.
+(/) The ball docs not become *’ dead ” on merely hitting the umpire unless
+it lodges in his pocket or clothing.
+(g) Lodging in a batsman’s clothing includes practically all ways in which
+a ball can be said to lodge in or against his clothing.
+(/») The ball ceases to be ’’dead ” when the bowler begins his run or bowling
+action.
+13
+BATSMAN RETIRING FROM HIS WICKET.
+36.—A Batsman shall not retire from his wicket and return to it
+to complete his innings after another has been in, without the consent
+of the opposite side.
+NOTE.
+(a)	When a batsman has retired owing to illness, injury, or some other
+unavoidable cause, his innings must be counted as “ Not out.”
+SUBSTITUTES.
+37.—A substitute shall be allowed to field or run between wickets
+for any player, who may during the match be incapacitated from
+illness or injury, but for no other reason, except with the consent of
+the opposite side.
+NOTES.
+(a)	It is well to remember that a side which loses a player’s services through
+dlncss or injury, brought about during the match, is entitled to a substitute,
+whereas in other circumstances consent is necessary, which must depend upon the
+courtesy of the opposing captain.
+(/>) A side may bat with its full number, provided no disqualification rule
+applies, even though substitutes have been allowed to field To prevent any abuse
+of this provision, and other disputes, the captains, before tossing, should exchange
+lists of the players.
+(c)	There is no law prohibiting a player from bowling because he has had a
+substitute to run for him.
+(<0 No substitute shall be allowed to bat or bowl.
+38.—In ail cases where a substitute shall be allowed, the consent
+of the opposite side shall be obtained as to the person to act as
+substitute, and the place in the field which he shall take.
+39.—In case any substitute shall he allowed to run between
+wickets, the Striker may bb run out if either he or his substitute
+be out of his ground. If the Striker be out of his ground while the
+ball is in play, that wicket which he has left may be put down and
+the Striker given out, although the other batsman may have made
+good the ground at that end, and the Striker and his substitute at
+the other end.
+NOTES.
+(o) The distinction between the words “ Striker ” and “ Batsman ” should
+be appreciated. When the injured batsman is not the striker he is subject only
+to such penalty under this Law as is incut red by his runner.
+(6) The intention of this Law is that the injured striker’s ground, when he
+has a substitute to run for him, is at the wicket-keeper’s end. He himself can only
+be run out at that end as provided for in the latter part of the Law.
+40.—A Batsman is liable to be out for any infringement of the
+Laws by his substitute.
+THE FIELDSMAN.
+41.—The Fieldsman may stop the ball with any part of his
+person, but if he wilfully stop it otherwise, the ball shall be “ Dead ”
+and five runs added to the run or runs already made ; if no runs
+have been made five shall be added.
+(Revised 6th May, 1936.)
+NOTE.
+(«) The five runs arc a penalty and the batsmen do not change ends.
+14
+WICKET-KEEPER.
+42.—The Wicket-keeper shall stand behind the wicket. If he
+shall take the ball for the purpose of stumping, before it has passed
+the wicket, or, if he shall incommode the Striker by any noise, or
+motion, or if any part of his person be over or before the wicket, the
+Striker shall not be out, excepting under Laws 26, 27, 28, 29 and 30.
+NOTE.
+(a)	A wicket-keeper may run a batsman out by going in front of the wicket
+(Law 28). The umpire must decide from the facts if the act is legal.
+DUTIES OF UMPIRES.
+43.—The Umpires are the sole judges of fair or unfair play, of
+the fitness of the ground, the weather, and the light for play ; all
+disputes shall be determined by them, and if they disagree the actual
+state of things shall continue.
+(See Law 3.)
+NOTES.
+(a) Fair and Unfair Play.
+(i)	Under this Law the umpires arc entitled to intervene without appeal in
+the case of unfair play. (Sec Law 3, Note (</).)
+(ii)	Umpires shall not allow themselves to be unduly influenced by appeals
+from such of the field who were not in a position to form a judgment on the point
+appealed upon, or by tricks—such as throwing up the ball, on an appeal for a
+catch at the wicket, without waiting for the decision. Umpires, being the sole
+judges of fair or unfair play, must remember that such devices arc obviously
+unfair, and arc not in accordance with the spirit in which cricket should be played.
+(iii)	In the event of a player criticising or showing resentment on or off the
+field to the decision of an umpire, the umpires should in the first place request
+the captains to take action, and if this proves ineffective, report the incident
+forthwith to the executives of the teams taking’part in the match.
+(Umpires in First-class or Minor County matches arc required to report all
+such cases to the Secretary of the M.C.C., after first informing the captains during
+the match of their intention to make the report.)
+(iv)	The special attention of umpires is cal'cd to Law 48, which directs them
+to call *' No Ball.” unless absolutely satisfied of the fairness of the delivery.
+(v)	It is illegal for the bowler to lift the seam of the ball in order to obtain
+a better hold. The ball, in such a case, should be shown to the umpire who should
+call for another ball and warn the captain that the practice is unfair. The use of
+resin by bowlers is also unfair.
+(vi)	The persistent and systematic bowling of fast short-pitched balls at (he
+batsman standing clear of his wicket is “ unfair,” and if, in the opinion of the
+umpire at the bowler’s end, unfair bowling of this type takes place he shall adopt
+the following procedure :—
+1.	As soon as he decides that such bowling is becoming persistent he shall
+forthwith “ caution ” the bowler.
+2.	If this “ caution ” is ineffective, he shall inform the captain of the fielding
+side and the other umpire of what has occurred.
+3.	Should the above prove ineffective, the umpire at the bowler’s end shall :—
+(i) At the first repetition call “ dead ball ” and the over shall be regarded
+as completed.
+(ii) Request the captain of the fielding side to take the bowler off forthwith.
+(iii)	Report the occurrence to the captain of the batting side, as soon as an
+interval of play takes place.
+A bowler who has been ” taken off" as above shall not bowl again during
+the same innings.
+15
+(6) Ground, Weather and Light.
+General.
+(i) Only when the captains (or their representatives) disagree or prefer to
+leave the decision to the umpires docs the responsibility of deciding as to the
+fitness of the ground, including the wicket, the weather and the light, for play
+rest with the umpires.
+(it) The umpires arc not to be biased by the opinions of either side, still
+less arc they to allow themselves to be influenced by the impatience of the spec-
+tators for a resumption of the game, and arc not to be induced, by the public
+interest in a particular match, to declare the ground fit for play, unless they would
+consider the ground, weather, or light, fit under any circumstances.
+Ground.
+(tii) At the commencement of a match, the umpires may be appealed to by
+either side as to the fitness of the ground for play.
+Should they not agree, play will not commence until they arc agreed.
+The ground is unfit for play when water stands on the surface, or when it is
+so wet, muddy, or slippery as to deprive the bowlers of a reasonable foothold, 01
+the fieldsmen of the power of free movement.
+Umpires arc not justified in deciding the ground unfit for play merely because
+the grass is wet and the ball would, in consequence, be slippery.
+(iv)	In the ease of interruption from rain, as soon as the rain has ceased,
+the captains, or if the decision has been left to them, the umpires, shall, immedi-
+ately, without further instruction, inspect the wicket, unaccompanied by any of
+the players, and decide upon its fitness. Should it prove unfit, they shall continue
+to inspect at intervals, until they decide that it is fit for play, when they shall call
+upon the players to resume the game.
+Weather and Light.
+(v)	A batsman at the wickets and the captain of the fielding side shall consult
+as to the fitness of weather and light for play, and if they arc unable to agree die
+question shall be determined by the umpires. Should play be s&spended, and the
+conditions later improve, the umpires shall, without waiting for instructions, call
+upon the players to resume the game.
+44.—They shall pitch fair wickets, arrange boundaries where
+necessary, and the allowances to be made for them, and change ends
+after each side has had one innings.
+NOTES.
+(«) If a ball hit or pass over or through the boundary or is carried over it
+by the fieldsman the umpire shall call a boundary hit, but a fieldsman may lean
+against the boundary to catch or field a ball, and if a fieldsman when standing
+within the playing ground, even though he be touching the boundary, catch a
+ball outside the boundary the batsman shall be given out.
+If a fieldsman grounds any part of his body on or over the boundary line while
+he has the ball in hand, the umpire shall signal “ Boundary hit ”
+(6) When the ball touches the boundary it becomes “ dead.”
+(c)	The umpire is not a boundary.
+(c/) It is for the umpire to decide if a hit has reached the boundary.
+(c) If a seat or other obstacle other than the sight screens is within the playing
+area, and such obstacle is struck by the ball, it cannot be regarded as a boundary
+unless so arranged by the umpires.
+(/) When four runs are allowed for a boundary hit it is the practice for
+umpires to allow six runs for all hits that drop over and clear of the boundary
+line or fence, even though the ball has been touched by a fieldsman in an attempt
+to make a catch.
+It is not the custom to allow six runs when a ball hits a sight screen full
+pitch, if the latter is positioned on or inside the boundary.
+(g) When a batsman has actually made more runs for a boundary hit than have
+been arranged for the boundary, Law 2 will prevail, and the runs completed shall
+be scored.
+16
+(/i) 'rhe runs which have been arranged for a boundary hit arc to be added
+to the runs already made should a fieldsman wilfully cause the ball to reach the
+boundary, if, however, the fieldsman involuntarily causes the ball to reach the
+boundary, only the value of the boundary shall be credited to the striker.
+(/) In the case of a boundary overthrow, in addition to the ordinary boundary
+allowance, all runs completed and, provided the batsmen had crossed at live
+moment the fieldsman threw the ball, the run in course of completion, count as
+runs.
+INTERVALS.
+45.—They shall allow two minutes for each Striker to come in,
+and ten minutes between each innings. When they shall call “ Play ”
+the side refusing to play shall lose the match.
+NOTES.
+(a)	The “ in-going ” batsman should meet the “ out-coming ” batsman
+before he enters the pavilion.
+It is the duty of the captains to see that this Law is strictly observed.
+(6) The effect of this Law is that the umpire shall decide whether the delay
+of the individual amounts to a refusal of the batting side to play. It provides a
+specific penalty in such a case but none for the individual.
+(c) The interval for luncheon shall be 40 minutes. In the event of the last
+wicket falling within two minutes of the time arranged for luncheon, the game
+shall be resumed at the usual hour, no allowance being made for the 10 minutes
+between the innings.
+APPEALS.
+46.—They shall not order a batsman out unless appealed to by
+the other side.
+NOTES.
+(a) An appeal, “ How’s that ? ” covers all ways of being out (within the
+jurisdiction of the umpire appealed to), unless a specific way of getting out is
+stated by the person asking.
+(b)	The decision ** Out ” shall be signalled by raising the index finger above
+the head. Besides signalling, the umpire shall call distinctly for the information
+of the players. If the batsman is not out, the umpire shall call “ Not out.”
+(c)	If a batsman thinks he is out and walks away, the umpire is not required
+to intervene save on appeal or should he consider a decision has been misconstrued.
+On giving a decision the umpire should make sure that the batsman under-
+stands what the decision is.
+(r/) An umpire may alter his decision if. in the hurry of the moment or by a
+slip of the tongue he has given a wrong one, provided that such alteration is made
+promptly.
+JURISDICTION OF UMPIRES.
+47.—The Umpire at the bowler’s wicket shall be appealed to
+before the other Umpire in all cases, except in those of stumping,
+hit wicket, run out at the Striker’s wicket, or arising out of Law 42,
+but in any case in which an Umpire is unable to give a decision, he
+shall appeal to the other Umpire whose decision shall be final.
+NOTES.
+(a) When either umpire has given a batsman “ Not out ” the other umpire
+may answer any appeal within his jurisdiction, subject to an observance of Law 50.
+(Z>) An umpire is only justified in appealing to the other umpire when he is
+unable to decide, owing to his having been prevented from seeing the occurrence
+on which the appeal is based. He is not to appeal to the other umpire in eases
+on which he could give a decision, merely because he is unwilling to give that
+decision. If, after consultation, he is still in any doubt, the principle laid down
+in Law 43, that “ the actual state of things shall continue,” shall be followed
+and in consequence, the decision should be in favour of the batsman.
+17
+NO BALL.
+48.—If cither Umpire be not satisfied of the absolute fairness of
+the delivery of any ball, he shall call “ No Ball.”
+(Revised 30th October, 1899.)
+CALLING “NO BALL’’ AND “WIDE.”
+48A.—The Umpire shall take especial care to call “No Ball”
+instantly upon delivery ; “ Wide Ball ” as soon as it shall have
+passed the striker.
+NOTE.
+(a) If an umpire has called “ No Ball ” when the ball has not been delivered,
+he should revoke his decision.
+SHORT RUNS.
+49.—If cither batsman run a short run, the Umpire shall call
+“ One short ” and the run shall not be scored.
+NOTES.
+(«) When a batsman takes his guard in front of the Popping crease and a
+run is made from that point, the umpire does not call “ One short.”
+(b)	When a short run is called the batsmen do not cross over to the positions
+they would have been in if the run had not been attempted.
+(c)	If two or more runs arc attempted, and the umpire calls “ One short,“
+only one run is deducted, although the fact that the batsman failed to complete
+one run shortens the distance necessary to complete the subsequent run.
+APPEALS.
+50.—After the Umpire has called “ Over ” the ball is “ Dead,”
+but an appeal may be made as to whether either batsman is out, such
+appeal however shall not be made after the delivery of the next ball,
+nor after any cessation of play.
+NOTES.
+(a) No .nt on the part of the fielding side can cause a batsman to be out
+after the umpire has called ” Over,” but an appeal may be made within the allotted
+time.
+(b)	An appeal may not be made after " Time ” has been called and the bails
+have been removed by both umpires. " Time ” shall be called before the players
+leave the field for any interval of play, as well as at the close of play. (See Law 13,
+Note (r).)
+51.—No Umpire shall be allowed to bet.
+52.—No Umpire shall be changed during a match, unless with
+(he consent of both sides, except in case of violation of Law 51 ;
+then either side may dismiss him.
+FOLLOWING INNINGS.
+53.—The side which bats first and leads by 150 runs (in Australia
+200 runs) in a match of three days or more, or by 100 runs in a two
+days' match, shall have the option of requiring the other side to
+follow their innings.
+Revised 10th July, 1894 ; 2nd May, 1900; 3rd May, 1922 ; 4th May, 1927.)
+18
+DECLARATIONS.
+54.—The In-side may declare their innings at an end in a match
+of three days or more, at any time on the second day ; in a two
+days’ match the Captain of the batting side has power to declare his
+innings at a close at any time ; but such declaration may not be
+made on the first day later than 1 hour and 40 minutes before the
+hour agreed on for drawing stumps ; in a one day match at any
+time.
+(Introduced 1st May, 1889. Revised 2nd May. 1900 ; 2nd May, 1906 ; 4th May,
+1910 ; 4th May, 1927.)
+NOTES.
+la) If a side declare its innings during the luncheon interval, it must do so
+within fifteen minutes after the commencement of such interval otherwise an
+extra seven minutes will be allowed for rolling.
+(6) If a side declare its innings closed in the morning before play commences,
+it must do so in sufficient time to enable the other side to choose the roller it prefers,
+otherwise an extra seven minutes will be allowed for rolling.
+(c)	A declaration of a first innings does not preclude a second innings.
+(d)	For the purpose of stating the result of a match, an innings declared at
+an end is regarded as completed and the victory, if accomplished, is in runs and
+not by wickets.
+55.—Where there is no play on the first day of a three day
+match Laws 53 and 54 shall apply as if the match were a two day
+match, and if in a three day match there is no play on the first two
+days, Law 54 and Law 1 “ one day matches ” shall apply as if the
+match were a one day match. Where there is no play on the first
+day of a two day match, Law 54 and Law 1 “ one day matches ”
+shall apply as if the match were a one day match.
+(Introduced 6th May, 1914. Revised 7th May, 1919.)
+ONE-DAY MATCHES.
+1.—The side which bats first and leads by 75 runs shall have
+the option of requiring the other side to follow their innings.
+2.—The Match, unless played out, shall be decided by the First
+Innings. Prior to the commencement of a match it may be agreed :—
+that the Over consist of 5 or 6 balls.
+NOTES.
+(a)	A tic is included in the words “ played out.”
+(See also Law of Cricket No. 2, Note (6).)
+(b)	If the captains are unable to agree, the umpires shall decide if there is
+sufficient time left to carry the game to a further issue after each side has completed
+an innings.
+(c)	For “ Declaration ” in one-day matches, see Law of Cricket No. 54.
+19
+SINGLE WICKET.
+rhe following Laws arc supplementary to the Laws of Cricket, which as far
+as they arc applicable, must be followed :—
+1.	One Wicket shall be pitched, as in Law 6, with a Bowling stump opposite
+to it, at a distance of twenty-two yards. The Bowling crease shall be in a line
+with the Bowling stump ; and drawn according to Law 7.
+2 When there shall be less than five players on a side, Bounds shall be placed
+twenty-two yards each in a line from the off and leg stump.
+3.	The ball must be hit before the Bounds to entitle the striker to a run.
+which run cannot be obtained unless he touch the Bowling stump or crease in a
+line with his bat, or some part of his person, or go beyond them, and return to
+the Popping crease.
+4.	When the striker shall hit the ball, one of his feet must be on the ground
+behind the Popping crease, otherwise the umpire shall call “ No Hit," and no run
+shall be scored.
+5.	When there shall be less than five players on a side, neither Byes, Leg
+Byes, nor Overthrows shall be allowed, nor shall the striker be caught out behind
+the wicket, nor stumped.
+6.	The fieldsman must return the ball so that it shall cross the ground be-
+tween the wicket and the Bowling stump, or between the Bowling stump and the
+Bounds ; the striker may run till the ball be so returned.
+7.	After the striker shall have made one run, if he start again he must touch
+the Bowling stump or crease, and turn before the ball cross the ground to entitle
+him to another.
+8.—The striker shall be entitled to three runs for Lost Ball, and the same
+number for ball wilfully stopped by a fieldsman otherwise than with any part of
+his person.
+9.	When there shall be more than four players on a side, there shall be no
+Bounds. All Hits, Byes, Leg Byes, and Overthrows shall then be allowed.
+10.	There shall be no restriction as to the ball being bowled in Oveis, but no
+more than one minute shall be allowed between each ball.
+20
+NOTES FOR SCORERS AND UMPIRES.
+1.	(o) The scorers must accept the umpires’ signals and instructions, and
+though it is no part of their duty to dictate to the umpires, mutual consultation
+to clear up doubtful points is at all times permissible.
+(b)	During the progress of the game, if two scorers have been appointed,
+they should frequently check the total to ensure that the score sheets agree.
+(c)	The umpires should wait until a signal has been answered by the scorer
+before allowing the game to proceed, and in addition to signalling the umpire
+should call distinctly for the information of the players.
+(d)	The following method of entering “ No Balls” and ** Widcs” (Law 16)
+in the score sheet is recommended :—
+(i)	If no run is scored from the bat off a “ No Ball," the latter should be
+entered as an “ Extra,” and a dot placed in the bowling analysis with a
+circle round it to show that the ball docs not count in the over.
+(ii)	If runs arc scored from the bat off a “ No Ball,” they should be credited
+to the striker, and entered in the bowling analysis with a circle round the
+figure. Such runs count against the bowler in his analysis even though
+the ball docs not count in the over.
+(iii)	Whatever runs arc scored from “ Wide Balls ” arc entered as ” Extras.”
+and inserted in the bowler’s analysis with a cross to indicate that the
+ball does not count in the over.
+2.	The following code of signalling between the umpires and the scorers
+has been approved :—
+Boundaries shall be signalled by waving the hand from side to side.
+A boundary six shall be signalled by raising both arms above the head
+Byes shall be signalled by raising the open hand above the head
+Leg Byes shall be signalled by raising the leg and touching it with tlic
+hand.
+Widcs shall be signalled by extending both arms horizontally.
+No Balls shall be signalled by extending one arm horizontally.
+The decision “ Out ” shall be signalled by raising the index fingcr above
+the head.
+“ One Short ” shall be signalled by bending the arm upwards and by
+touching the top of the nearest shoulder with the tips of the fingers of
+one hand.
+3.	If the above instructions are properly carried out. cases of disagreement
+as regards the scores and the results of matches should not occur.
+It is. however, important that the captains should satisfy themselves of the
+correctness of the scores on the conclusion of play, as errors cannot subsequently
+be corrected.
+It should be noted that, in general, by accepting the result notified by the
+scorers, the captain of the losing side has thereby acquiesced in the ** playing out
+or. giving up ” of the match as stated in Law 2.
+21
+REGULATIONS FOR DRYING THE
+WICKETS AND GROUND IN FIRST-
+CLASS MATCHES IN ENGLAND.
+N.B.—These regulations are primarily designed for First-class Cricket, and their
+application in whole or in part in other grades of English Cricket is at the
+discretion of the ground, etc., authorities.
+I.	Except as provided below, the existing regulations in regard to the
+rolling of the wicket and the fitness of the ground for play shall apply. (See
+Laws 9 and 43.)
+2.	(i) To enable play to proceed with the least possible delay after rain,
+the groundman shall adopt every practical means to protect or rid the surface
+of the ground, other than the pitch, of water or dampness at any time except while
+play is in progress. (The pitch will be regarded as 10 ft. in width, i.c., 5 ft. on
+each side from the centre stump.)
+(ii) Prior to tossing for choice of innings, the artificial drying of the pitch,
+as defined above, shall be at the discretion of the groundman, but thereafter,
+and throughout the match, the drying process shall be carried out only on the
+instructions and under the supervision of the umpires, who shall be empowered
+to have the wicket dried, without reference to the captains, at any time they are
+of opinion that it is unfit for play.
+(iii) In wet weather, the umpires shall sec that the foot-holes made by the
+bowlers and batsmen are cleaned, dried and filled up with sawdust at any time
+during the match, although the game is not actually in progress.
+The groundman, without instructions from the umpires, may also clean out in
+this way foot-holes, provided they arc not on any part of the pitch (as defined
+in (b) (i) above), more than 3 ft. 6 ins. in front of the Popping creases.
+The drying of foot-holes on the pitch itself shall be supervised by the umpires,
+but, in the interval between close of play on any day and its further resumption,
+the groundman may protect against further rain, marks made by the bowlers, even
+though they be more than 3 ft. 6 ins. in front of the Popping creases, provided
+they arc not between wicket and wicket, with loose sawdust, which, however.
+shall be removed prior to the resumption of play.
+(iv)	The umpires shall ascertain from the groundman before the commence-
+ment of a match, what equipment is available for drying the wicket artificially.
+Before drying the wicket the umpires shall have regard to the condition of the
+outfield and the prospects of its fitness for play. The drier shall be removed
+when they arc satisfied that the wicket is fit for play, or as they may direct.
+Any roller may be used, if the umpires think desirable but only (except as
+laid down in paragraph (b) (v)) for the purpo.'C of drying the wicket and making
+it fit for play, and not otherwise. This would allow umpires to roll the wicket
+after drying it, say with a light roller, for a minute or two, should they consider
+it desirable.
+(v)	When the artificial drying of the wicket, under the supervision of the
+umpires, coincides with any interval during the match, after the toss for choice of
+innings, the umpires, and not the captain of the batting side, shall select the
+roller to be used.
+(vi)	The fact that the umpires may have dried the wicket artificially docs not
+take the decision as regards the fitness of the wicket and ground for play out of the
+hands of the captains, even though the umpires may have selected the roller to
+be used for the drying process. Law 43, Note (b) (i) is applicable in such cases.
+22
+IMPERIAL. CRICKET CONFERENCE.
+The first Imperial Cricket Conference was held at Lord’s on July 15th, 1909,
+composed of representatives of the M.C.C., the Australian Board of Control
+and the South African Cricket Association. India, New Zealand and West
+Indies were first represented at a meeting held on May 31st, 1926.
+Constitution and Voting.
+Governing bodies of Cricket in Countries within the Empire, to which cricket
+teams arc sent, or from which visits of cricketers arc received, shall be entitled to
+send two representatives of such governing bodies to the Conference. (28th July,
+1926). England, Australia and South Africa are allowed two votes each at the
+Conference, the other Countries represented one vote each (8th September,
+1930).
+Meetings.
+The M.C.C. may on its own initiative, or shall on the request of any two of the
+governing bodies, summon a meeting of the Conference. (28th July, 1926).
+Governing bodies will notify to the Secretary of the M.C.C. any points they wish
+included in Agenda for meetings, and the names of their representatives by
+March 1st of each year. (14th June, 1937).
+Laws of Cricket.
+The official Laws of Cricket will prevail on all tours, unless an agreement to
+meet special eases is arrived at between the parties before the visiting team arrives.
+(16th July, 1912)
+Rules for Test Matches.
+At a meeting of the Imperial Cricket Conference on July 29th. 1931, the follow-
+ing rules were adopted :—
+1.	Test Matches are matches played between sides duly selected by governing
+bodies of Cricket recognised by the Imperial Cricket Conference as representing
+Countries within the Empire.
+2 A Cricketer can be qualified to play in a Test Match either by birth or
+residence.
+3.	(a) Qualification by Birth.—A Cricketer, unless debarred by the Imperial
+Cricket Conference, is always eligible to play for the Country of his birth.
+(b)	Qualification by Residence.—A Cricketer, unless debarred by the Imperial
+Cricket Conference, shall be entitled to play for any Country in which he is residing
+and has been residing during the four immediately preceding years, provided that
+he has not played for the Country of his birth during that period.
+(c)	Notwithstanding anything hereinbefore contained, any player who has
+once played in a Test Match for any Country shall not afterwards be eligible to
+play in a Test Match against that Country, without the consent of its Board of
+Control.
+4.	The respective Boards of Control of the Countries affiliated to the Imperial
+Cricket Conference shall be responsible for submitting, in reasonable time for the
+approval of the Imperial Cricket Conference, the names of any cricketers whose
+qualifications are in doubt, and who are likely to be selected to play in any ap-
+proaching series of Test Matches, furnishing their qualifications and stating if
+any player has during the four immediately preceding years played for the Country
+of his birth.
+In the case of Cricketers qualified by residence, they shall further state the
+periods of residence upon which such qualifications arc founded.
+(Amended 14th June, 1937.)
+5.	Any question arising out of these rules shall be submitted to the Imperial
+Cricket Conference, and their decision shall be final.
+(These Rules came into force on 1 st September, 1931.)
+23
+BOARD OF CONTROL
+OF TEST MATCHES AT HOME.
+(Formed at the request of the Counties by the M.C.C., 1898.)
+To consist of the President of the M.C.C. (in the chair), five of its Club Com-
+mittee, one representative from each of the ten First-class Counties at the top of
+last season's list, and one representative from each County on whose ground a
+Test Match is to be played subject to such County not already being represented.
+The constitution of the Board to remain unchanged until after the accounts
+of the season have been passed.
+RULES.
+Play and Intervals.
+1.	In all Test Matches play shall begin at each day. Stumps
+shall be drawn at 6.30 p.m. each day. Luncheon Interval 1.30 to 2.15 p.m.
+In the event of there being no break of play during the afternoon, and not more
+than eight wickets down at 4.30 p.m., a Tea Interval shall be taken at 4.30 p.m.
+If an innings is completed, or declared at an end, after the Luncheon Interval
+and not later than 3.30 p.m., or if there has been a break of play during that period,
+there shall be a Tea Interval at 4.30 p.m., or one hour after the resumption of play
+whichever is the later, always provided that not more than eight wickets arc down.
+If, at the time a Tea Interval is due, nine wickets arc down, play shall continue
+until 5 o’clock, and if the last wicket has not fallen a Tea Interval shall be taken.
+A Tea Interval shall be fifteen minutes.
+There shall be no Tea Interval if:—
+(a) No play has taken place between 2.15 and 3.30 p.m. ; or if
+(6) There is a break of play owing to weather or light of not less than
+fifteen minutes after 3.30 p.m. ; or if
+(c) An innings is completed or declared at an end after 3.30 p.m.
+Umpires.
+2.	Umpires for the Test Matches shall be appointed by the Board of Control,
+but before such appointments arc made the captains shall be consulted. They
+shall be paid each per Test Match plus third-class railway fares from the
+places where they have umpired on the three days before the Test Match, or from
+their homes if they have not been umpiring, and third-class railway fares to the
+places where they arc umpiring on the days after the Test Match, or to their
+homes if they arc not umpiring.
+Distribution of Profits.
+3.	All moneys taken at Stands and Enclosures at all Test Matches under the
+control of the Board, together with Gate Money in respect thereof, less the op-
+ponent’s 50 per cent, share for each person paying admission at the outer gate,
+any amount payable for Entertainment Tax to be previously deducted, and less
+such expenses as arc authorised by the Board, be placed in the hands of the Board
+for distribution as follows : 40 per cent, equally between the First-class Counties
+upon whose Grounds the Test Matches are played ; 50 per cent, equally between
+the First-class Counties on whose Grounds no Test Matches are played. For the
+purpose of cither of the foregoing the M.C.C. to rank as a First-class County.
+10 per cent, equally between the Minor Counties, Oxford University Cricket
+Club and Cambridge University Cricket Club. But should there be a loss on
+these matches, such loss shall be divided among the First-class and Minor Counties
+and the M.C.C.. and the two Universities in the proportion of their respective
+interests. The accounts for Trial Matches shall be kept separate from those of
+24
+Test Matches, and the profits distributed as above. Any aggregate loss on Trial
+Matches will be debited to the Test Match account.
+(The participants in distribution also join, pro rota, in a guarantee of £6.400
+for payments, allowances, etc., to the Australian team visiting England, and if
+the reasonable expenses of their tour based on the expenses of previous tours
+arc not covered by their receipts, in an undertaking to pay, up to half 'he money
+taken at Stands in Test Matches, for that purpose.)
+Selection Sub-Committee.
+4.	In 1939 the Selection Sub-Committec shall consist of four members,
+including the Chairman, who shall have a casting vole in the selection of the
+Captain. Two of the members of the Sub-Committee shall oc selected from
+the list of the 1938 County Captains. The said Sub-Committee shall select a
+Captain who shall be an cx-officio member of the Sub-Committec, and who
+shall have a casting vote. (This rule is experimental.)
+5.	No member of the Sub-Committee shall contribute a report or statement
+to the Press nor shall he furnish any information by way of interview or by broad-
+casting until the end of the season in regard to the Test Matches.
+Selectors’ Expenses.
+6.	Selectors’ expenses to be allowed arc first-class railway fares and a sum
+not exceeding 40s. per diem when away from home for work in connection with
+the Test Matches.
+Invitations.
+7.	When inviting a cricketer to play in a Test Match the Selection Sub-
+committee shall make it a condition in writing that the cricketer does not con-
+tribute a report or statement of any kind to the Press or give any broadcast talk
+or statement, until the end of the season as regards any Test Match for which he
+is selected and in which he plays.
+When inviting a professional cricketer to play in a Test Match, the Selection
+Sub-Committec shall advise the County for which 'he professional plays as well
+as the professional himself.
+Trustees.
+8.	Two Trustees shall appointed to whom all receipts, less authorized
+disbursements, shall be made.
+Collections.
+9.	No collection shad be ullowcd on the ground.
+Expenses.
+10.	The expense*- to be deducted fiom half the Gross Gate Money shall
+include Players (including reserve men), Police, Umpires, Scorer, Gate and Ground
+Attendants, Masseur (not exceeding £5), Printing, Advertising, Luncheons,
+Match Balls and any other items specially sanctioned by the Board.
+Players.
+11.	The remuneration of each player shall be per Test Match ; plus
+the cost of one third-class railway fare from the place where he has been playing
+on the three days before the Test Match, or from his home if he has not been
+playing, and one third-class railway fare to the place where he is playing on
+the days after the Test Match, or to his home if he is not playing.
+Hotel bills, excluding drinks, to be paid by the Board in the case of all pro-
+fessionals who stay at Hotels nominated by the Selection Sub-Committee.
+Reserve Men.
+12.	The remuneration of reserve men, excluding the 12th man, shall be
+each per Test Match plus railway fares and Hotel bills as provided for
+in the case of players. The 12th man shall receive per Test Match plus
+third-class railway fares and Hotel bills as provided for above.
+Scorer.
+13.	The Scorer shall be paid per Test Mutch inclusive.
+25
+Amateurs' Expenses.
+14.	Amateurs’ expenses to be allowed arc first-class railway fares incurred
+by the Test Match and a sum not exceeding 30s. per dieni for not exceeding
+days.
+Luncheons.
+15.	The amount to be allowed for luncheons and refreshments shall not
+exceed per dieni.
+Clerical Work and Postage.
+16.	If the executive of the ground sell Stand or Admission tickets for the Test
+"Match in advance of the match, up to 2 per cent, of the money so received shall
+be allowed for clerical work and postage.
+Advertising.
+17.	The sum to be allowed for advertising shall not exceed for each
+Test Match.
+Screens.
+It. The matter of providing screens behind the bowler’s arm at each end of
+the ground shall be left to the discretion of the ground on which a Test Match is
+played, the usual custom on such ground to prevail.
+Duration of Matches.
+)9. The Test Matches shall be of days’ duration.
+(N.B.—In the event of there being no play on the first day of a four-day match,
+it becomes a threc-day match, and thereafter Law 55 of the Laws of Cricket shall
+apply.)
+New Ball.
+20.	Umpires shall inform the batsman when a new ball is about to be used.
+Th: fielding side can demand a new ball every 200 runs (c.g., should a new ball be
+caled for say at 210 an additional 200 runs must be scored before another new ball
+cai be demanded). In the event of the Umpires agreeing that the ball in use is
+urfit for play they shall have power to allow another ball (as much like as possible
+to the one discarded) to be used at any time they are unanimous on that point
+Exchanging Lists of Teams.
+21.	The two Captains before tossing shall give each other a list of the eleven
+sdccted to play, together with the emergency fieldsman. Afterwards no alteration
+slall be made in either eleven or emergency player without the consent of the
+opposing Captain.
+Fitness of Wicket and Ground.
+22.	Except as provided for in the official Laws of Cricket (16th Edition),
+pige 21, the two Captains shall decide as to the fitness of the wicket and ground
+for play, unless they disagree or prefer to leave the decision to the Umpires. If
+tte decision is left to the Umpires the Captains shall forthwith advise them
+acordingly.
+In order to facilitate play at the earliest possible moment during wet weather
+th- groundman shall adopt every practicable means to rid the surface of the ground,
+oiler than the pitch, of water or dampness at any time except while play is in
+pngress. The Umpires and groundman shall see that the foot-holes made by the
+bovlers and the batsmen arc cleaned out, dried and filled up with sawdust as and
+who necessary during the match.
+'he pitch may be dried artificially vide the official Laws of Cricket (16th
+Editon), page 21.
+Fitness of Light for Play.
+22 The Umpires may decide on appeal from cither side that there is not
+suflictni light for play. Should the light improve they shall without waiting for
+mstru<ions call upon the players to resume the game.
+Time of Starting and Drawing Stumps.
+24.	The time of starling and drawing stumps shall be regulated by a clock
+on the ground.
+Players Leaving the Field.
+25.	No player on the fielding side shall leave the field for the purpose of having
+a rub do/n or shower whilst a Test Match is actually in progress.
+26
+Cutting the Grass.
+26.	The grass shall be cut on the pitch on the Monday morning, or as laid
+down in Law 9, Note (b), of the official Laws of Cricket (16th Edition), in the
+presence of the Umpires. The grass on the rest of the ground shall be cut as
+far as possible on the morning of each week-day during the progress of such
+match. Should the final match be played to a finish the grass shall be cut on the
+pitch in the presence of the Umpires, and as far as possible and necessary on the
+rest of the ground, on the morning of each week-day during the progress of such
+match.
+Boundaries.
+27.	The question of the Boundary Line and Boundaries generally shall be
+left to the Captains at the ground to decide before each Test Match takes place.
+The general principle laid down in the official Laws of Cricket (16th Edition)
+shall be followed.
+Rolling Wicket.
+28.	Except as provided for in the official Laws of Cricket (16th Edition)
+page 21, Law 9 shall govern the rolling of the wicket.
+Covering of Wicket.
+29.	The wicket shall be completely protected against rain, if necessary and
+as far ns practicable, twenty-four hours before the time advertised for the start
+of a Test Match or until play begins After the first ball has been bowled the
+covers shall not protect more than 3 ft. 6 ins. in front of the popping crease at
+each end.
+Cricket Balls.
+30.	The executive of the ground on which a Test Match is played ihall
+select the cricket balls to be used in such match subject to their being of a veil-
+known make and conforming with Law 4 of the official Laws of Cricket.
+Lnw 45.
+31.	Only when a wicket falls within two minutes of the cessation of play stall
+a batsman be excused from going in.
+Drinks on the Field.
+32.	Drinks shall not be taken on the field to the same team more than o»cc
+in each period of play. Each day is divided into three periods, vide Rule 1.
+{The payments, etc., are left blank in eases where they may varv from ytar
+to year.)
+ADVISORY COUNTY CRICKET
+COMMITTEE.
+In 1904, with the approval of the Counties, the M.C.C. formed an Advisory Comty
+Cricket Committee to consider cases arising out of County and other Crickc.
+RULES.
+1. The Advisory County Cricket Committee shall consist of a representaive
+of each First-class County, appointed by his Committee, and three mcnocrs
+representing and appointed by the Minor Counties’ Cricket Association aid at
+least one member of the M.C.C.
+2.	The Chairman of this Committee shall be the President of the M-'.C ;
+or some other member of the Committee of the M.C.C. nominated by hm or
+in default of such nomination, by the Committee of the M.C.C.
+3.	All resolutions passed by this Committee shall be submitted to the M.C.C.
+Committee for confirmation.
+4.	A meeting may be convened either by five, or more. First-class Ccunties ;
+or by the Minor Counties Cricket Association and tu-o, or more, Frst-class
+Counties ; or by the M.C.C., and notice shall be sent to all parties iiterested
+at least 21 days before the day of meeting.
+5.	The notice shall contain an agenda of the meeting. Notice of a amend-
+ment to a resolution on the agenda must be given, at least, 14 days *efore the
+day of meeting.
+27
+CLASSIFICATION OF COUNTIES.
+Cricketing counties shall be considered as belonging to First-class or Minor
+Counties, including second elevens of First-class Counties. There is no necessity
+for further sub-division.
+First-class Counties are those whose matches with onq another, with M.C.C.,
+with the Universities, with the Australians, and such other elevens as shall be
+adjudged “ First-class” by the M.C.C. Committee, arc used in compilation of
+First-class batting and bowling averages.
+Minor Counties are those not included in the First-class, and second elevens
+of First-class Counties.
+There shall be no limit to the number of First-class or Minor Counties. The
+M.C.C. Committee may bring new counties into the list, may remove existing
+counties from it, or may do both.
+Note.
+A three days’ match between two sides of eleven players adjudged First-class
+shall be regarded as a First-class fixture.
+THE COUNTY CHAMPIONSHIP.
+First Class.
+After the close of each cricket season the Committee of the M.C.C. shall
+decide the County Championship.
+It shall be competed for by First-class Counties. No County shall be eligible
+unless it shall have played as many matches as may be decided from time to
+time by the Advisory County Cricket Committee.
+RULES OF COUNTY CRICKET.
+First and Second Class County
+Competitions.
+Adopted by the Advisory County Cricket Committee on March 16th, 1937, and
+» amended on April 12Wi, 1938.)
+GENERAL RULES.
+Alterations to Rules.
+1 No alterations in or addition to the Rules of County Cricket shall be made
+except at a meeting of the Advisory County Cricket Committee duly convened
+for the purpose ; and no such alteration or addition shall be made except by a
+vote of two-thirds of the representatives present at such meeting.
+Registration of Players.
+2.	Previous to the commencement of each cricket season each County in the
+Firstand Second-class competition shall, on the form supplied,send to the M.C.C.
+and to every oilier County in the First and Second-class County competitions, a list
+of the cricketers, with their respective qualifications, who are expected to play
+for the County during that season ; and if in the course of the season a County
+wishes to play a cricketer not included in that list, his name and qualification shall
+be circulated in a similar manner forthwith.
+28
+Cricketer not to play for more than One County in a Season.
+3.	A Cricketer may not play for more than one County in cither competition
+within the Calendar Year. The penalty Tor an infringement of this rule shall be
+disqualification for two years. A British Dominion or State shall, for the purpose
+of this rule, be regarded as a County.
+County Boundaries.
+4.	For the purpose of County Cricket, County Boundaries arc not affected by
+th: Local Government Act of 1888, or by any subsequent statutory modification
+thereof.
+Notice to Counties.
+5.	Correspondence on all matters which concerns a County Cricket Club will be
+addressed to the Secretary, and any notice sent to the Secretary of a County
+Cricket Club shall be regarded as notice to that County
+QUALIFICATIONS.
+Birth.
+Qualification by Birth.
+6.	Subject to the provision of Rule 3, a cricketer is always qualified to play for
+the County of his birth.
+Residential.
+Definition of Residence.
+7.	The term “ residence ” as used in these rules excludes the following :—
+(i) The mere acquirement or hiring of a tenement unless used as a
+bona fide home.
+(ii) The occupation of a tenement during the cricket season only.
+(in) The residence of a cricketer at his School or University (except as
+specially provided for by Rule 10 (6) unless his bona fide home lies
+within the County in which such School or University is situated.)
+Notwithstanding the above, if a cricketer who is acquiring a residential
+qualification for a County leaves the County in order to undertake any Govern-
+ment service his residence shall not be broken.
+Note 1.
+It has been decided that the residence of a master at a school can
+reckon as qualifying residence even if he spends his holidays elsewhere.
+Note 2.
+It has been decided that l^ic residential qualification of a cricketer
+is not broken by his undertaking occasional or winter work for business
+reasons outside the County in which his bona fide residence is situated.
+Twelve Months’ Rule for Cricketers who have NOT played for, etc., a County
+during the preceding 24 Months.
+8.	(o) A cncketcr, who, during the preceding 24 months, has not played for a
+First or Second-class County, or a British Dominion or State, or during that period,
+has not been engaged with any other First or Second-class County, shall be
+qualified to play for the County in which he has resided for the previous 12 months,
+and is residing.
+Twelve Months’ Rule for Cricketers who have played for, etc., a County
+during the preceding 24 Months.
+(6) A cricketer who, during the preceding 24 months, has played for a First-class
+County, or during that period, has been engaged with any other First-class
+County, shall be qualified to play for the County, whether First or Second-class,
+in which he has resided for the previous 12 months, and is residing, subject to the
+provisions of Rule 11.
+29
+Twenty-four Months’ Rule for Second-class Counties, etc.
+(c) A cricketer who, during the preceding 24 months, has played for n Second-
+class County or a British Dominion or State, or during that period, has been
+engaged with any other Second-class County, shall be qualified to play for the
+County in which he has resided for the previous 24 months, and is residing, subject
+to the provisions of Rule 11.
+Note 1.
+It has been decided that a cricketer, subject to the provisions of
+Rules 3 and 9 (b) does not lose his qualification to play for a County for
+which he has a residential qualification and in which he is still residing,
+by playing for the County of his birth.
+Note 2.
+It hus been decided that a cricketer in course of qualifying by residence
+for a County docs not break his qualification for that County if he plays
+foi another for which he has a qualification.
+Continuance of Qualification after Residence has ceased.
+9.	(«) A cricketer may play for the County, for which he is qualified by
+residence, for two consecutive years immediately after he has ceased to reside in
+that County.
+Note I.
+It has been decided that the above rule applies equally whether a
+cricketer has qualified either under 12 months’ or under the 24 months’
+qualification laid dow-n in Rule 8.
+Note 2.
+It has been decided that the above rule docs not necessarily imply
+that a cricketer must play in the first year after he has ceased to reside
+in a County in order to be qualified to play the following season.
+(b) A cricketer who has played for a County for three successive years is
+qualified to play for that County for the rest of his cricket career, unless and until
+he plays for some other County.
+(c) A cricketer who has a residential qualification for a County and goes
+abroad shall on his return retain his qualification if his residence is in that County,
+and provided that he has not, during his absence, represented any British Dominion
+or State.
+Special Qualifications.
+10 (a) A cricketer resident in England is qualified, subject to the provisions of
+Rules 6, 8 and 12 (a), provided he has not represented any British Dominion,
+Colony, Dependency or State, to play for a County under the following special
+conditions:
+A Cricketer with No Qualification for any County.
+(i) If he has no qualification for any County in the First or Second-class
+County competitions, he shall be eligible to play for that First or Second-class
+County, the capital of which is nearest to the place of his birth (in England) or
+residence.
+A Cricketer unable to play for the County of his Birth and with no
+alternative Qualification.
+(ii) If his regular place of residence is at such a distance from the County
+of his birth that, in the opinion of the M.C.C. to whom all such cases must be
+referred for decision, he cannot reasonably play for that Counry, he shall be
+eligible to play for that First or Second-class County the capiielof which is
+nearest to his place of residence (in England), provided that he has no residential
+qualification for another County, and that the consent of the County in which
+he was born is first obtained. Such consent shall not be unreasonably withheld.
+Note 1.
+It has been decided that for the purpose of this rule Wales is regarded
+as part of England.
+30
+A Cricketer playing for the County in which his School is situated.
+(b) Notwithstanding the provisions of Rule 7 (iii), a cricketer on leaving his
+school shall be qualified to play for the County in which that school is situated
+for three successive years only, immediately after leaving that school. It is
+obligatory on a County wishing to play a cricketer under this rule to obtain the
+permission of the County or Counties for which he already has a qualification.
+(Rule 9 (b) shall not apply in such eases.)
+Note 1.
+This rule implies that a cricketer can play for the County for which
+he is so qualified, in any or all of the three years immediately after he has
+left the school.
+TRANSFERS.
+Cricketers engaged by or having played for a County within the
+previous 24 Months.
+11. (a) Should a cricketer who has been engaged by or played for a County
+wi'hin the previous 24 months wish to qualify by residence for another County, he
+must obtain a written consent, which must not be antedated, from the former
+County His residential qualification shall not commence to run until he has
+obtained this consent which shall not be unreasonably withheld, nor shall it
+commence to run whilst a contract of service is in force.
+A County wishing to engage or play a cricketer who is engaged by or has
+played for another County within the previous 24 months, must give written
+notice to the latter County before commencing negotiations with the cricketer.
+Cricketer wishing to play for the County of his Birth.
+(6) A cricketer who wishes to play for the County of his birth (see Rule 6) must
+give written notice to any County for which he has played within the previous
+24 months under his residential qualification.
+Note 1.
+A British Dominion or State shall, for the purpose of this rule, be regarded
+as a County except that in such cases written consent must be obtained before
+the residential qualification commences to run, irrespective of when a player
+was so engaged or played.
+APPEALS AND DECISIONS.
+Doubtful Cases of Qualification.
+12. (a) If required to do so, it is obligatory on the County for which a
+cricketer wishes to play to prove his qualification to the satisfaction of the M.C.C.
+Appeals.
+(b) Any question arising under these rules shall be left to the decision of
+the M.C.C., which shall be final.
+Infringement of Rule 11.
+(c) In the event of an infringement of Rule 11, the M.C.C. shall have special
+authority to fix the date when the cricketer shall become qualified by residence,
+or even debar permanently his so qualifying.
+31
+MINOR COUNTIES’ CRICKET
+ASSOCIATION.
+I.	The Association shall be called "The Minor Counties’ Cricket
+Association.”
+2.	All Counties not in the First Class (as classified by the M.C.C.) and the
+Second Elevens of First-class Counties shall be eligible to join the Association.
+and shall be entitled to compete in the Second Division of the County Cham-
+pionship (the Minor Counties* Competition).
+3.	The Officers of the Association shall consist of Chairman. Hon. Secretary
+and the Representatives of the Minor Counties on the Advisory County Cricket
+Committee, all of whom shall be ex officio members of the Committee.
+4.	The Committee shall consist of the ex officio members and one repre-
+sentative each from six Counties, together with any duly elected Life Member
+5.	The Officers of the Association shall be elected and the Counties forming
+the Committee chosen annually at the Annual Meeting.
+6.	The Association shall have power to elect Life Members to the Committee.
+7.	The Annual Meeting shall be held at Lord’s on the same day as the
+Annual Meeting of County Secretaries.
+A Special Meeting shall be called by the Hon. Secretary at the request of four
+or more Counties. One month’s notice of every such Meeting shall be sent to
+each County, and the notice shall contain the agenda of the Meeting.
+8.	Only one representative from each County shall be entitled to vote at
+General Meetings of the Association.
+9.	Notices of Motions to be brought forward at the Annual Meeting shall
+be sent to the Hon. Secretary before the end of October.
+10.	A County desirous of entering the Competition for the first time shall
+give notice to the Hon. Secretary before the end of the previous August.
+11.	Every County shall play out and home two-day matches with at least
+four other Counties.
+In eases of emergency and in order to enable all Counties to obtain the
+necessary number of qualifying matches prior to the >\nnual Meeting in each
+year, the Committee may, after consultation with County Secretaries, re-arrange
+fixtures for this purpose.
+12.	A County shall give 12 months’ previous notice in writing to the Hon.
+Secretary and to their opponents of their intention to leave the Competition,
+such notice to expire on the 30th day of September in any one year.
+13.	The County which shall have obtained the greatest proportionate number
+of points shall (in the absence of a challenge under Rule 16) be reckoned Champion
+County of the Second Division.
+14.	If two or more Counties shall have obtained the same proportion of
+points, preference shall be given to that County which shall have won the greatest
+number of completed matches.
+15.	If two or more Counties shall have obtained the same proportion of
+points and also won the same number of completed matches, their priority shall
+be decided according to the net batting averages.
+16.	If the two top Counties shall not have played each other, the second
+County shall have the right to challenge the first to a three-day match, which
+shall decide the Championship, and shall be played on a ground chosen by the
+challenged County.
+32
+In the event of a challenge match, the winners shall be the Champion
+County but in the event of a decision on the first innings only (the match not
+being played as a one-day match) the points for a result on the first innings
+shall be added in 'he table of results to those already gained by the respective
+Counties, and their percentage re-calculated accordingly. If no result shall
+have been attained in this match, the Championship shall be decided as if
+there had been no challenge.
+17.	In every* challenge match under Rule 16 the hours of play shall be those
+in force for matches played in the First-class Competition. Each County shaJI
+bear its own expenses and shall receive half the gross gate money, after deducting
+the fees paid to the umpires and entertainment tax. Gross gate money shall be
+regarded as the total sum paid for admission to the Ground by spectators as
+distinct from admission to Stands.
+18 Point, in the Competition shall be reckoned as follow* : Six points
+shall be scored for a win in a completed two-day match and tor a win on the
+first innings whin there is no play on the first day of a two-day match, provided
+the match is not played out, when the match shall be played under the Rules of
+Cricket for one day matches. Should c two-day match not be completed, the
+side leading in the first innings shall sco’c thiee points and its opponents one
+point. In the event of a tie* the points shall be divided. Matencs in which no
+result shall have been attained shall not be included in the Table of Results.
+• (See Law 2, Note (b).)
+19.	Neutral umpires shall be provided for all matches in the Competition,
+and the ariangcments for the selection and appointment of such umpires shall
+be left to the Secretary of the M.C.C.
+20.	The normal hours of play in the Competition shall be from 11.30 a.m.
+to 7 p.m. on the first day, and from 11 a m. to 6 p.m. on the second day except
+only that by agreement between Captains and when it is necessary to leave the
+ground for Luncheon, the Luncheon Interval may be extended and the additional
+time made up at the end of the day. The umpires shall be informed of such
+extension before the Luncheon Interval The time for the Luncheon Interval
+shall be left to the home Captain to decide before the day’s play commences.
+An extra half hour shall be allowed on the second day of the match, if necessary.
+on the demand of either side.
+21.	Before and after the actual commencement of play the wicket may be
+protected when necessary, and shall be protected every night if possible during
+the continuance of a match, but the covering must not protect more than
+3 ft. 6 ins. in front of the popping crease.
+In the ease of matches played on First-class County Grounds, the wicket
+shall be covered in accordance with the rules in force on that Ground.
+22.	The result of each match in the Competition shall be telegraphed, and
+the full score (with bowling analysis) shall be posted to the Hon. Secretary by the
+home County immediately after its conclusion. This score shall for all purposes
+be deemed the official score.
+23.	All disputes arising out of the Laws of the Game shall be referred to the
+M.C.C., whose decision shall be final.
+24.	Should any matter arise not provided for in these Rules, the Committee
+shall have power to deal with it.
+25.	Except where they are inconsistent with the foregoing, the Rules governing
+the matches of the First Division of the County Championship shall apply.
+26.	These Rules shall not be altered except at a General Meeting of the
+Association.
+33
+INDEX TO THE LAWS
+OF CRICKET.
+	Panes	Laws.	Notes.
+z\dvisory County Cricket Committee :			
+Constitution of ..	26		
+Purpose of	26		
+Rules for	26		
+Artificial Drying of Wickets and Ground :			
+Duties of Groundman	21		
+Duties of Umpires	21		
+Bails, The : See “ WICKETS ”			
+Blown off by wind	4,7		6 (c), 13 (c) (i)
+Ball, The :			
+Captains to approve in County Cricket	4		4(c)
+New ball, batsman to be informed re	4		4(6)
+New ball, when allowed	4	4	4(6)
+Replacement of damaged ball	4		4(a)
+Replacement of “ lost ” ball ..	12		34(a)
+Weight and size of	4	4	
+Bat, The :			•
+Practice with, during game, illegal	8	18	
+Size of . .	4	5	
+Batsman, The :			
+Breaking wicket while running	10		25 (d)
+Knocking ball back to bowler .	11		27 (6)
+“ Out of his ground ” ..	8	19	19(a)
+Position after crossing, etc. .. 12,	13, 17		32 (a), 41 (a), 49 (6
+Retiring ..	13	36	36 (a)
+Substitute not to bat	13		37 (J)
+To meet out-coming batsman outside			
+pavilion	16		45 (a)
+To stand on side of wicket as directed			
+by the bowler	7	15	
+Batsman is “out ” :			
+(1) THE STRIKER :			
+“ Bowled ’’	9	21	21 (a)
+Ball kicked on to wicket	9		21 (6)
+“ Caught”	9	22	22 (a) (6) (g)
+After hitting ball twice ..	9		22(c)
+Ball hits pad	9		22 (d)
+Ball “ hugged to body ’’ of catcher ..	9		22(f)
+Ball lodging in catcher’s clothing, etc.	9		22 (/)
+Ball over boundary	15		44 (a)
+Off tree, etc.	9		22(e)
+“ Hit the ball tw'ce ” ..	10, 11	27	27 (a) (6) (d)
+“ Hit wicket ” ..	6, 10	25	12 (J), 25 (a) to (d)
+Hat, etc., falling on wicket	10		25(6)
+“ Leg before wicket ” ..	10	24	24(a)to(/) .
+“ Obstructing the field ”	10	26	26 (a) (6)
+" Stumped ”	6, 8, 9	23	12(«/),20(6)23 (a)(6)
+34
+	Pages.	Laws.	Notes.
+(2) EITHER BATSMAN :			
+** Handled the ball ”	6, 11	29	12 (rf)
+Infringement of Laws by substitute	13	40	
+“ Obstructing the field ”	6. 11	30	12 (O, 30 (a)
+“ Run out ”	6, 11	28	12 (d). 28 (a) to (d)
+By bowler before delivery	12	35	35 (b) (c)
+Of striker off “ no ball "	7, 11	16, 28	16 (a)
+Of striker who has a runner	13	39	39 (a) (6)
+Which batsman is ** out ”	11	31	
+Board of Control of Test Matches :			
+Constitution of ..	23		
+Rules for Test Matches	23		
+Boundaries :			
+Ball “ dead ” when touching . .	15		44 (6)
+Ball hitting or being carried over	15		44 (a)
+Fieldsman causing ball to reach	16		44 (/i)
+Fieldsman touching	15		44 (a)
+Hits over	15		44(/)
+How signalled	20		
+Obstructions on field of play	15		44 (c) (e>
+Overthrow reaching	16		44 (0
+Runs to be scored	15, 16		44 (g) (/») (0
+Umpires to arrange and adjudge	15	44	44 (d)
+•Bowled ’’ : See " BATSMAN IS ‘ OUT.	••		
+Bowler, The :			
+Ball ceases to be “ dead ”	12		35 (//)
+Changing ends .	7	14	
+Changing from over to round wicket, etc.	7		13(g)
+Consecutive overs not allowed	7	14	
+Correct delivery by	6	10, 11	11 (a) (c)
+Dropping ball prior to delivery	6, 7		11 (d), 13 (c) (ii)
+Not allowed trial balls . .	8	18	18 (a)
+** Running out ” batsman before			
+delivering ball.	12	35	35 (Z>) (c)
+Substitute not to bowl	13		37 (rf)
+Unable to complete ’* over ” ..	7		I3(/)
+Unfair practices by	14		43 (a) (v) (vi)
+*• Bye ” :			
+Definition of	8	17	
+How signalled	20		
+M Caught ” : See “ BATSMAN IS * OUT.’	••		
+Classification of Matches, and Counties	27		
+County Cricket :			
+Balls to be approved by Captains	4		4 (c)
+Classification of Counties	27		
+County boundaries	28		
+County Championship ..	27		
+Definition of first-class fixture	27		
+New ball, when allowed	4		4 (6)
+Number of first-class and minor counties	27		
+Qualification of players in	27		
+Rules of ..	27		
+Umpires to report incidents, etc.	14		43 (a) (iii)
+35
+Creases, The : See ” WICKETS ”	Pages.	Laws.	Notes.
+* Dead " Ball : Ball ceases to be “ dead ”	12		35 (A)
+Ball not “ dead ”	12		35 (e)
+Fieldsman wilfully stopping ball irregularly	13	41	
+General rules	12		35(d)
+Lodging in clothing of batsman or umpire 1.	12	33B	35 (OU)
+'* Lost ball "	12	34	
+When batsman is ” out ”	12	33A	
+When finally settled in hand of wicket- keeper or bowler	7. 12	35	13(a), 35(a)
+When “ over ” called	17	50	
+Declaration ” : Sec “ GAME,” etc. ” Fieldsman, The : Legal method of stopping ball	13	41	
+Making a catch ..	9		22 (a)(h)(/)U)
+Penalty for irregular fielding ..	13	41	41 (a)
+First-class Matches : See " CLASSIFICATION OF MATCHES, etc.”
+“ Follow On ’’ : See “ GAME," etc.
+Game, The Conduct of the :
+Captains to inspect score sheets	20
+Choice of innings Commencement of Continuation of play optional after match is finished	3 1 8 18 3 2(a)
+Controlled by umpires . . Criticism, etc., of umpires Curtailment of duration of match	3 3 3 (e) 14 43 (a) (ii) (iii) 18 55
+“ Declaration,” rules for ” Follow on,” rules for.. .. ..17, “ Innings ”	18 54, 55 54 (a) to (d) 18 53, 55 3 1
+Intervals to be allowed .. 16, Lists of players to be exchanged	18 45 45 (a) (c), 54 (a) (6) 13 37(h)
+Penalty for side refusing to play Position of batsmen after crossing, etc. 12.	16 45 45 (h) 13 32 (a), 41(a)
+Result .. .. .. .. .. 3. Side batting with full strength Sides, composition of . . “ Time ” .. .. . . .. 3 Ground, The : Artificial drying of Batsman patting pitch .. Changing pitch .. Covering permitted	18 2 2(h), 54(d) 13 37 (h) 3 1 7 3 (c), 13 (e) 21 5 9 4 6 5 9(c)
+Fitness of, for play .. .. . .J 14. Mowing in week-end match Rolling, watering, covering, mowing and	15 43 43 (h) (i) to (iv) 5 9(h)
+beating of pitch during match Selection and preparation of wicket . Special provision for rolling in	5 9 9 (a) (ii), (h) 5 9 (a) (i)
+Australia, etc. Supervision of rolling by umpires	5 9* 9* (a) 5 9 (a) (n)
+Use of sawdust . .	5 9 9 (d)
+36
+	Pages.	Laws.	Notes.
+“ Ground, Out of His ” : See “ BATSMAN ”			
+“ Handled the Ball ” : Sec “BATSMAN IS	‘OUT		
+•• Hit Wicket ” : See “ BATSMAN IS ‘ OUT ’ ”			
+Imperial Cricket Conference :			
+Constitution of ..	22		
+Meetings of	22		
+Qualification of players	22		
+Rules for			
+Rules for Test Matches			
+Voting	22		
+Intervals : See “ GAME," etc.			
+“ Leg Before Wicket ” : See “ BATSMAN	IS •OUT*”		
+“ Leg Bye ” :			
+Definition of	8	17	
+How signalled ..	20		
+Striker kicking ball wilfully	8		17(a)
+Light	15		43 (6)(v)
+“ Lost Ball ” :			
+Definition of	12	34	
+Replacement of ball lost	12		34 (a)
+Luncheon' Interval	16		45 (c)
+Match :			
+Definition of	3	1	
+See also under “ GAME,” etc.			
+Minor Counties’ Cricket Association :			
+Rules of	31		
+•* No Ball ” :			
+Bowler breaking wicket at his end	6		11 (6)
+Bowler changing delivery without notice	7		13(g)
+Bowler throwing at wicket	6. 12	35	10 (a), 35 (r)
+Definition of .. .. .. 6. 7. 17		10. II	13(g)
+		48	
+Entry of, in score sheet..	20		
+How signalled	20		
+Not to count in “ over ” .. 6.	7. 8	13	13 (b), 16 (b)
+Position of bowler’s feet	6	11	11 (a) (c)
+Scoring off	7, 8	16	16(b)
+Striker can be “ out ” off	7	16	16(a)
+To be called on delivery	17	48A	48A (a)
+“ Obstructing the Field ” : Sec “ BATSMAN IS		OUT’	»»
+Ono-Day Matches :			
+Laws and rules for	IS		
+Over, The :			
+Ball not to count in	7		13 (c)
+Definition of	6	13	
+Eight balls to, in Australia, etc.	6	13	
+“ No ball ” and “ wide ” not to count in	6. 7	13	13 (b)
+Rules for last “ over ” before intervals	7		13 (c)
+Umpire and not scorer to call	6. 7	13	13 (J)
+When to be called	6. 7	13	13(a)(/)
+Overthrows :			
+After ball hit twice	11		27 (c)
+Reaching boundary, runs to be scored	16		44 (»)
+37
+“ Pitch, The " : See " WICKETS ”	Pages.	Laws.	Notes.
+Rules of County Cricket :			
+Alterations to Appeals and decisions .. County boundaries	27 30 28		
+Qualification of players—			
+Birth 	 28 Residential .. .. 28 Special .. .. .. .. 29 Registration of players .. .. .. 27 Transfer of players .. .. .. 30 “ Run Out ” : See BATSMAN IS ‘ OUT ’ ”			
+•Scorers :			
+Appointment and duties of .	3	3	
+Consultation with umpires Not to call “ over”	20 7		13(d)
+Not to dictate to umpires	3,20		3 CD
+To acknowledge signals of umpires To check score sheets ..	20 20		
+Scoring :			
+Batsman retiring	13		36 (a)
+Boundaries	15. 16	44	44 (d)(/)to
+“ Byes ” ..	8	17	
+“ Handled the ball ”	11		29(a)
+“ Leg Byes ”	8	17	17(a)
+“ Lost Ball ”	12	34	
+Method of entering “ no balls ” and			
+“ wides ” '* No balls ”	20 7, 8	16	13 (£>), 16 (6)
+No runs allowed when “ catch ” is made	12	32	
+Notes for scorers and umpires “ Obstructing the field ”	20 10		26 (6)
+Oil ball not reaching striker ..	6		12(a)
+'* Overthrows ” ...	8. 11		16(c), 27 (c)
+Penalties . .	3, 13	2, 41	41 (a)
+“ Run out ”	12	32	
+Runs	3	2	
+“ Short runs ” . .	17	49	49 (c)
+“ Wides ” 		7, 8	16	13 (6), 16(c)
+Single Wicket :			
+Special Rules .. 19 “ Stumped See “ BATSMAN IS ’ OUT ’ ”			
+Stumps, The : See “ WICKETS ” Substitutes :			
+Circumstances under which allowed . .	13	37	37 (a)
+Infringement of laws by	13	40	
+Not to bat or bowl	13		37(d)
+Opposite side to agree to substitute and			
+his position in field	13	38	
+Player can bowl after substitute			
+has run for him	13		37 (c) *
+Running out of striker ..	13	39	39 (a) (6) 0
+Side batting with full strength	13		37 (6)
+38
+’ Tie ’’ Match	Pages	Laws.	Notes.
+Definition of	3		2 (6)
+Tossinc for Choice of “ Innings ”	3	1	
+Trial Balls Not Allowed	8	18	18 (a)
+Umpires. Their Duties, etc. : Appeals :			
+After “ over ” called	17	50	50 (a)
+Decision to be made clear to			
+batsman ..	16		46 (c)
+Form of	16		46 (a)
+Necessary before giving batsman			
+“ out ” ..	16	46	
+Not allowed after “ time ” has been			
+called	17		50 (b)
+Not to be influenced by appeals,			
+opinions or tricks	14		43 (a) (ii)
+Not to interfere save on appeal 3,	14, 16		3 (d), 43 (a) (i) 46(c)
+Unsuccessful, no bar to further			
+appeal	16		47 (fl)
+Appointment of	3	3	3 (a)
+Ball unfit for play or " lost ” ..	4, 12		4 (a), 34 (a)
+Ball, when “ finally settled ” ..	.’2		35 (a)
+Betting by, not allowed	17	51	
+Calling necessary in addition to			
+signalling	16		46 (6)
+Calling “ no ball ” .. 6, 7,	14, 17	10, 48 48A	11 (fl) (6) (c), 13 (g) 43 (a) (iv) 48A («)
+Calling “ one short ” ..	17	49	49 (a) (c)
+Calling “ over ”	6, 7	13	13 (a) (</) (e)(/)
+Calling “ play ”	8	18	
+Calling “ time ”	7, 17		13 (c), 50 (6)
+Calling “ wide ”	6, 17	I2.48A	12(a) (6)
+Changing or dismissal of	17	52	
+Consultation between Consultation with scorers	16 20	47	47 (b)
+Control of game and ground ..	3, 15	' 44	3 (c)
+Criticism of, by players	14		43 (a) (iii)
+Decisions, altering	16		46 (J)
+Decisions re batsman being “ out ” :	See ” BATSMAN IS * OUT		
+Disagreement of Duties in respect of artificial drying of wickets, etc		14 21	43	-
+Duties in respect of fitness of ground,			
+weather and light	14, 15	43	43 (b) (i) to (v)
+Fair and unfair play	14	43	43 (fl)
+Inspection of implements, etc.	3		3 (e)
+Intervals to be observed	16	45	45 (b) (c)
+Jurisdiction of .. Notes for scorers and umpires	6, 16 20	47	11 (e), 46 (a)
+Position during play	3, 15	44	3(6)
+Reporting before play ..	3		3(e)
+Reporting incidents	14		43 (a) (iii)
+Revoking call of “ no ball ” .. Scorers to answer signals of ..	17 20		48A (fl)
+Scorers to be directed by Sanais, code of .. To determine disputes ..	3, 20 20		3 CD
+	14	43	
+To fix boundaries	15, 16	44	44 (a) to (D
+39
+	Pages.	Laws.	Notes
+To supervise rolling and mowing	5		9 (a) (ii) (6)
+Unfair practices	14, 17	43,48	43 (a) (v) (vi)
+Watch or clock, to be agreed upon .. Wicket not to be remade till ball is	3		3(c)
+“ dead ”	9		20(7)
+Weather Wicket “Down ” :	15		43 (6) (v)
+Definition of	8, 9	20	20 (a) to (d), 21 (a)
+When bails dispensed with	9		20 (c)
+Re-making wicket	9		20(7)
+Wicket-Keeper, The :			
+Not to incommode striker	14	42	
+Position of	14	42	
+Taking ball in front of wicket	14	42	42 (a)
+Wickets, The :			
+Bails, use of, dispensed with Beating of ground—see “ GROUND ”	4		6(c)
+Bowling crease ..	4	7	
+Changing pitch during match .. Covering—see “ GROUND ”	4	6	
+Length of pitch Mowing—see “ GROUND ”	4	6	
+Popping crease ..	5, 8	8, 19	8 (a), 19 (a)
+Return crease	4	7	7 (fl)
+Rolling—see “ GROUND ” Selection and preparation of	5		9 (fl) (i)
+Stumps and bails, size, etc.	4	6	6 (a) (b)
+Umpires to inspect Watering—see “ GROUND”	3, 15	44	3(c)
+“ Wide ” :			
+Ball not “ dead ”	6		12(d)
+Ball not reaching striker	6		12(a)
+Definition of	6	12	12(a)
+Entry of, in score sheet..	20		
+How batsman can be out off ..	6		12(d)
+How signalled	20		
+Ignored if ball hit	6		12(6)
+Not to count in “ o,ver ” Position of batsman when one run is	6, 7	13	13(6)
+made ..	6		12(c)
+Scoring off To be called as soon as ball passes	7, 8	16	16(c)
+wicket	17	48A	
