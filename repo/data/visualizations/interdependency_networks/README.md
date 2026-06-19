@@ -1,1 +1,0 @@
-The interdependency network visualizations were generated using Gephi. Nodes with higher degree are darker and greater in size. Visualizations were only generated for a select few years, and not for the entire timeline of rules. 
