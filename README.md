@@ -1,5 +1,4 @@
-# Three centuries of the Laws of Cricket reveal core principles of the
-evolution of regulatory mechanisms
+# Three centuries of the Laws of Cricket reveal core principles of the evolution of regulatory mechanisms
 
 This repository contains all the data files that were used for our analysis, as well as the figures used in the manuscript. Where possible, the scripts to create these data files and figures have been included.
 
