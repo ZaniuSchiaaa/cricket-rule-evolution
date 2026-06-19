@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentScriptType="text/ecmascript"
+   width="210"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="0 0 210 210"
+   height="210"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg178"
+   sodipodi:docname="1918_interdependency_networks.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="1918_interdependency_networks.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs178">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264567"
+         id="rect179"
+         width="364.79279"
+         height="307.94196"
+         x="-242.06084"
+         y="-165.68517" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview178"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3803294"
+     inkscape:cx="15.21376"
+     inkscape:cy="126.05687"
+     inkscape:window-width="1293"
+     inkscape:window-height="643"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg178" />
+  <g
+     id="g178"
+     transform="matrix(0.68810553,0,0,0.68810553,145.54321,120.0809)"
+     clip-path="url(#clipPath178)">
+    <g
+       id="edges">
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_1 id_53"
+         d="m -145.69148,-68.417839 a 20.127574,20.127574 0 0 1 -5.23723,-1.002876"
+         stroke="#218954"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path1" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_2 id_1"
+         d="M -67.574104,-46.831509 A 61.543628,61.543628 0 0 1 -127.33066,-60.559647"
+         stroke="#76b293"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path2" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_2 id_16"
+         d="M -63.673115,-47.344654 A 72.043651,72.043651 0 0 1 -2.750183,-5.356217"
+         stroke="#76b293"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path3" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_2 id_34"
+         d="m -65.713142,-49.444736 a 31.962184,31.962184 0 0 1 14.529899,-26.470868"
+         stroke="#c0e6de"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path4" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_2 id_41"
+         d="m -66.433098,-49.294132 a 20.047548,20.047548 0 0 1 -0.10894,-13.103417"
+         stroke="#98cebb"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path5" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_2 id_44"
+         d="m -67.343155,-46.348598 a 14.052082,14.052082 0 0 1 -8.011902,1.733821"
+         stroke="#c0e6de"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path6" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_2 id_45"
+         d="m -63.796036,-46.748005 a 25.649057,25.649057 0 0 1 14.019703,14.341538"
+         stroke="#98cebb"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path7" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_13 id_16"
+         d="m -14.299649,-2.200804 a 18.498603,18.498603 0 0 1 2.573333,0.191424"
+         stroke="#49a076"
+         stroke-width="2"
+         stroke-opacity="1"
+         id="path8" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_13 id_45"
+         d="M -23.592249,-1.869993 A 29.706458,29.706458 0 0 1 -43.202644,-13.086305"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path9" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_13"
+         d="M -8.43949,6.657455 A 18.498603,18.498603 0 0 1 -13.756261,4.023514"
+         stroke="#49a076"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path10" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_26"
+         d="M 10.227177,1.92604 A 16.923082,16.923082 0 0 1 11.334544,1.714869"
+         stroke="#218954"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path11" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_27"
+         d="M 10.828209,10.657848 A 32.988134,32.988134 0 0 1 24.770338,27.19928"
+         stroke="#218954"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path12" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_28"
+         d="m 6.822564,-1.592212 a 28.859694,28.859694 0 0 1 5.854103,-5.013715"
+         stroke="#006d2c"
+         stroke-width="3"
+         stroke-opacity="1"
+         id="path13" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_29"
+         d="m 11.416657,5.23794 a 29.33428,29.33428 0 0 1 16.31159,5.019201"
+         stroke="#218954"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path14" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_30"
+         d="m 11.555324,7.109954 a 19.751141,19.751141 0 0 1 4.462393,1.880838"
+         stroke="#218954"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path15" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_16 id_32"
+         d="m 8.251662,14.338124 a 42.950946,42.950946 0 0 1 7.093673,33.195388"
+         stroke="#218954"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path16" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_20 id_28"
+         d="m 42.524357,-19.457312 a 15.063072,15.063072 0 0 1 -0.59412,1.109719"
+         stroke="#49a076"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path17" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_25 id_16"
+         d="m -14.000203,23.562513 a 20.349205,20.349205 0 0 1 4.475935,-9.856199"
+         stroke="#76b293"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path18" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_27 id_22"
+         d="M 29.256399,44.257011 A 24.056341,24.056341 0 0 1 27.931255,57.209084"
+         stroke="#43a57c"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path19" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_28 id_19"
+         d="m 38.530167,-17.834967 a 22.444554,22.444554 0 0 1 10.595497,-2.89718"
+         stroke="#49a076"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path20" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_28 id_20"
+         d="m 35.728855,-19.984644 a 15.063072,15.063072 0 0 1 1.094589,-0.936195"
+         stroke="#49a076"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path21" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_34 id_35"
+         d="m -46.588177,-83.364021 a 15.597414,15.597414 0 0 1 -0.881828,-7.515824"
+         stroke="#93d4c1"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path22" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_34 id_41"
+         d="m -46.993397,-75.483421 a 15.409486,15.409486 0 0 1 -3.643726,2.795791"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path23" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_34 id_50"
+         d="m -39.912109,-80.879166 a 29.910506,29.910506 0 0 1 22.66839,2.818825"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path24" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_42 id_26"
+         d="M 34.390278,4.63383 A 14.067943,14.067943 0 0 1 31.664154,5.398581"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path25" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_42 id_27"
+         d="M 39.551376,6.750822 A 30.755563,30.755563 0 0 1 34.261158,30.041395"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path26" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_42 id_29"
+         d="m 39.556084,6.74961 a 12.973333,12.973333 0 0 1 0.02547,1.375578"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path27" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_42 id_30"
+         d="m 36.956581,6.671652 a 17.185969,17.185969 0 0 1 -4.175228,5.486471"
+         stroke="#6bbc9e"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path28" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_47 id_42"
+         d="M 20.262102,-44.666618 A 43.24436,43.24436 0 0 1 39.632927,-5.334553"
+         stroke="#c0e6de"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path29" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_47 id_50"
+         d="M 16.584103,-45.995358 A 31.606365,31.606365 0 0 1 -5.776435,-61.764336"
+         stroke="#98cebb"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path30" />
+      <path
+         stroke-linecap="round"
+         fill="none"
+         class="id_55 id_1"
+         d="m -166.46605,-78.697464 a 27.770995,27.770995 0 0 1 20.1397,0.606506"
+         stroke="#76b293"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path31" />
+    </g>
+    <g
+       id="arrows">
+      <polyline
+         fill="#218954"
+         fill-opacity="1"
+         class="id_1 id_53"
+         points="-153.435379,-71.068939 -150.104599,-70.674049 -151.752823,-68.167381"
+         stroke="none"
+         id="polyline31" />
+      <polyline
+         fill="#76b293"
+         fill-opacity="1"
+         class="id_2 id_1"
+         points="-129.303680,-62.819553 -126.200706,-61.546158 -128.460617,-59.573135"
+         stroke="none"
+         id="polyline32" />
+      <polyline
+         fill="#76b293"
+         fill-opacity="1"
+         class="id_2 id_16"
+         points="-1.756140,-2.525691 -4.165445,-4.859196 -1.334919,-5.853239"
+         stroke="none"
+         id="polyline33" />
+      <polyline
+         fill="#c0e6de"
+         fill-opacity="1"
+         class="id_2 id_34"
+         points="-48.490555,-77.238266 -50.521912,-74.569260 -51.844574,-77.261948"
+         stroke="none"
+         id="polyline34" />
+      <polyline
+         fill="#98cebb"
+         fill-opacity="1"
+         class="id_2 id_41"
+         points="-64.884727,-64.898216 -65.291702,-61.568893 -67.792374,-63.226204"
+         stroke="none"
+         id="polyline35" />
+      <polyline
+         fill="#c0e6de"
+         fill-opacity="1"
+         class="id_2 id_44"
+         points="-78.163635,-45.669231 -74.827827,-46.019066 -75.882286,-43.210487"
+         stroke="none"
+         id="polyline36" />
+      <polyline
+         fill="#98cebb"
+         fill-opacity="1"
+         class="id_2 id_45"
+         points="-49.270123,-29.449482 -51.254826,-32.153362 -48.297840,-32.659573"
+         stroke="none"
+         id="polyline37" />
+      <polyline
+         fill="#c0e6de"
+         fill-opacity="1"
+         class="id_9 id_7"
+         points="209.765442,1117.682373 212.005096,1115.185547 213.106659,1117.976074"
+         stroke="none"
+         id="polyline38" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_13 id_16"
+         points="-6.744947,1.335161 -13.398588,0.481304 -10.054047,-4.500065"
+         stroke="none"
+         id="polyline39" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_13 id_45"
+         points="-44.604927,-15.738400 -41.876598,-13.787445 -44.528690,-12.385164"
+         stroke="none"
+         id="polyline40" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_16 id_13"
+         points="-15.781400,1.810188 -12.649598,3.010945 -14.862924,5.036084"
+         stroke="none"
+         id="polyline41" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_16 id_23"
+         points="-3.610772,9.793150 -2.681390,-0.226143 4.962293,4.525080"
+         stroke="none"
+         id="polyline42" />
+      <polyline
+         fill="#218954"
+         fill-opacity="1"
+         class="id_16 id_26"
+         points="14.298515,2.178414 11.102772,3.196855 11.566317,0.232884"
+         stroke="none"
+         id="polyline43" />
+      <polyline
+         fill="#218954"
+         fill-opacity="1"
+         class="id_16 id_27"
+         points="25.392756,30.134003 23.302977,27.510489 26.237700,26.888071"
+         stroke="none"
+         id="polyline44" />
+      <polyline
+         fill="#006d2c"
+         fill-opacity="1"
+         class="id_16 id_28"
+         points="21.421158,-8.735224 13.741316,-2.233683 11.612020,-10.978172"
+         stroke="none"
+         id="polyline45" />
+      <polyline
+         fill="#218954"
+         fill-opacity="1"
+         class="id_16 id_29"
+         points="29.880457,12.347116 26.683262,11.333245 28.773235,9.181035"
+         stroke="none"
+         id="polyline46" />
+      <polyline
+         fill="#218954"
+         fill-opacity="1"
+         class="id_16 id_30"
+         points="18.136791,11.114359 14.955936,10.050329 17.079502,7.931257"
+         stroke="none"
+         id="polyline47" />
+      <polyline
+         fill="#218954"
+         fill-opacity="1"
+         class="id_16 id_32"
+         points="14.412188,50.384693 13.919744,47.066940 16.770926,48.000084"
+         stroke="none"
+         id="polyline48" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_20 id_28"
+         points="39.439552,-16.675327 41.094105,-19.592937 42.766369,-17.102249"
+         stroke="none"
+         id="polyline49" />
+      <polyline
+         fill="#43a57c"
+         fill-opacity="1"
+         class="id_22 id_32"
+         points="16.975040,62.860119 20.082829,64.121727 17.830425,66.103310"
+         stroke="none"
+         id="polyline50" />
+      <polyline
+         fill="#76b293"
+         fill-opacity="1"
+         class="id_24 id_1"
+         points="-139.716110,-79.587692 -142.252090,-81.782875 -139.481552,-82.933586"
+         stroke="none"
+         id="polyline51" />
+      <polyline
+         fill="#76b293"
+         fill-opacity="1"
+         class="id_25 id_16"
+         points="-6.966975,12.137794 -8.740008,14.984961 -10.308528,12.427668"
+         stroke="none"
+         id="polyline52" />
+      <polyline
+         fill="#43a57c"
+         fill-opacity="1"
+         class="id_27 id_22"
+         points="26.256090,59.697823 26.686886,56.371502 29.175625,58.046665"
+         stroke="none"
+         id="polyline53" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_28 id_19"
+         points="52.091106,-20.278097 48.898640,-19.249428 49.352688,-22.214867"
+         stroke="none"
+         id="polyline54" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_28 id_20"
+         points="39.583794,-22.095770 37.410912,-19.540665 36.235977,-22.301014"
+         stroke="none"
+         id="polyline55" />
+      <polyline
+         fill="#43a57c"
+         fill-opacity="1"
+         class="id_32 id_22"
+         points="17.317368,60.275539 14.209579,59.013931 16.461981,57.032341"
+         stroke="none"
+         id="polyline56" />
+      <polyline
+         fill="#93d4c1"
+         fill-opacity="1"
+         class="id_34 id_35"
+         points="-46.366879,-93.669670 -46.075092,-90.328278 -48.864918,-91.431412"
+         stroke="none"
+         id="polyline57" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_34 id_41"
+         points="-53.597370,-72.200851 -50.880512,-74.167755 -50.393734,-71.207504"
+         stroke="none"
+         id="polyline58" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_34 id_50"
+         points="-14.928314,-76.152756 -18.197514,-76.902641 -16.289925,-79.218040"
+         stroke="none"
+         id="polyline59" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_42 id_26"
+         points="28.725981,4.792661 31.967113,3.929494 31.361195,6.867668"
+         stroke="none"
+         id="polyline60" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_42 id_27"
+         points="32.128174,32.150986 33.206360,28.974903 35.315956,31.107887"
+         stroke="none"
+         id="polyline61" />
+      <polyline
+         fill="#49a076"
+         fill-opacity="1"
+         class="id_42 id_28"
+         points="36.274998,-2.521852 41.931419,1.084377 36.783867,4.167023"
+         stroke="none"
+         id="polyline62" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_42 id_29"
+         points="38.292480,10.834117 38.227085,7.480652 40.936016,8.769724"
+         stroke="none"
+         id="polyline63" />
+      <polyline
+         fill="#6bbc9e"
+         fill-opacity="1"
+         class="id_42 id_30"
+         points="30.033564,13.362141 32.179344,10.784229 33.383362,13.532017"
+         stroke="none"
+         id="polyline64" />
+      <polyline
+         fill="#c0e6de"
+         fill-opacity="1"
+         class="id_47 id_42"
+         points="39.146832,-2.374197 38.152748,-5.577601 41.113106,-5.091505"
+         stroke="none"
+         id="polyline65" />
+      <polyline
+         fill="#98cebb"
+         fill-opacity="1"
+         class="id_47 id_50"
+         points="-6.790242,-64.587845 -4.364682,-62.271240 -7.188190,-61.257431"
+         stroke="none"
+         id="polyline66" />
+      <polyline
+         fill="#c0e6de"
+         fill-opacity="1"
+         class="id_52 id_51"
+         points="314.644318,-1131.366211 311.676056,-1129.804443 311.613861,-1132.803711"
+         stroke="none"
+         id="polyline67" />
+      <polyline
+         fill="#76b293"
+         fill-opacity="1"
+         class="id_55 id_1"
+         points="-143.915756,-76.305176 -147.219254,-76.885658 -145.433456,-79.296257"
+         stroke="none"
+         id="polyline68" />
+      <polyline
+         fill="#98cebb"
+         fill-opacity="1"
+         class="id_55 id_53"
+         points="-166.865433,-74.427902 -172.566223,-70.892242 -173.114441,-76.867142"
+         stroke="none"
+         id="polyline69" />
+      <polyline
+         fill="#c0e6de"
+         fill-opacity="1"
+         class="id_55 id_54"
+         points="-174.111343,-79.513016 -167.540558,-80.863876 -169.088196,-75.066910"
+         stroke="none"
+         id="polyline70" />
+    </g>
+    <g
+       id="nodes">
+      <circle
+         fill-opacity="1"
+         fill="#006d2c"
+         r="9.1999998"
+         cx="-135.88043"
+         class="id_1"
+         cy="-70.35257"
+         stroke="#004c1e"
+         stroke-opacity="1"
+         stroke-width="1.6"
+         id="circle70" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-65.670586"
+         class="id_2"
+         cy="-47.44519"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle71" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-242.87119"
+         class="id_3"
+         cy="-1187.1005"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle72" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="1041.963"
+         class="id_4"
+         cy="-293.45764"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle73" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-251.01819"
+         class="id_5"
+         cy="1124.725"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle74" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-1151.0818"
+         class="id_6"
+         cy="-396.103"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle75" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="205.42474"
+         class="id_7"
+         cy="1119.3959"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle76" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="1113.2521"
+         class="id_8"
+         cy="-545.13806"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle77" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="211.61586"
+         class="id_9"
+         cy="1118.1095"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle78" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="1049.2321"
+         class="id_10"
+         cy="511.6246"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle79" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-1010.3591"
+         class="id_11"
+         cy="-686.95062"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle80" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-1105.9465"
+         class="id_12"
+         cy="452.16089"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle81" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="-18.931616"
+         class="id_13"
+         cy="-1.6327639"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle82" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-590.4245"
+         class="id_14"
+         cy="914.4649"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle83" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-506.35709"
+         class="id_15"
+         cy="1134.2321"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle84" />
+      <circle
+         fill-opacity="1"
+         fill="#006d2c"
+         r="9.1999998"
+         cx="1.557335"
+         class="id_16"
+         cy="6.9093971"
+         stroke="#004c1e"
+         stroke-opacity="1"
+         stroke-width="1.6"
+         id="circle85" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="1153.8229"
+         class="id_17"
+         cy="87.964897"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle86" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-835.34747"
+         class="id_18"
+         cy="892.77441"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle87" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="56.704014"
+         class="id_19"
+         cy="-19.571795"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle88" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="43.877674"
+         class="id_20"
+         cy="-23.923441"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle89" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="1102.8962"
+         class="id_21"
+         cy="300.89258"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle90" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="22.161245"
+         class="id_22"
+         cy="65.78141"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle91" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="-6.0743699"
+         class="id_23"
+         cy="13.756541"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle92" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-141.31287"
+         class="id_24"
+         cy="-82.621765"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle93" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-14.215579"
+         class="id_25"
+         cy="25.550882"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle94" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="21.543779"
+         class="id_26"
+         cy="3.3115239"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle95" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="26.914215"
+         class="id_27"
+         cy="37.30777"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle96" />
+      <circle
+         fill-opacity="1"
+         fill="#006d2c"
+         r="9.1999998"
+         cx="31.137257"
+         class="id_28"
+         cy="-11.101108"
+         stroke="#004c1e"
+         stroke-opacity="1"
+         stroke-width="1.6"
+         id="circle97" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="35.141415"
+         class="id_29"
+         cy="17.455942"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle98" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="23.316748"
+         class="id_30"
+         cy="16.305296"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle99" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-798.31836"
+         class="id_31"
+         cy="-923.33398"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle100" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="12.131161"
+         class="id_32"
+         cy="57.354248"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle101" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="1218.3741"
+         class="id_33"
+         cy="-145.47507"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle102" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="-44.301933"
+         class="id_34"
+         cy="-79.295746"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle103" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="-44.650902"
+         class="id_35"
+         cy="-98.009392"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle104" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="606.69214"
+         class="id_36"
+         cy="955.93744"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle105" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-538.80896"
+         class="id_37"
+         cy="-1095.4956"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle106" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="913.82068"
+         class="id_38"
+         cy="682.77917"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle107" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-1189.7793"
+         class="id_39"
+         cy="188.88055"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle108" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-976.28754"
+         class="id_40"
+         cy="676.39209"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle109" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="-60.833523"
+         class="id_41"
+         cy="-71.010948"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle110" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="38.390682"
+         class="id_42"
+         cy="2.230803"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle111" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-1216.1381"
+         class="id_43"
+         cy="-98.754547"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle112" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="-82.532539"
+         class="id_44"
+         cy="-47.309498"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle113" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="-48.032722"
+         class="id_45"
+         cy="-22.2213"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle114" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="816.01434"
+         class="id_46"
+         cy="884.5979"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle115" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="18.565926"
+         class="id_47"
+         cy="-45.72633"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle116" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="815.89642"
+         class="id_48"
+         cy="-896.65326"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle117" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="899.8526"
+         class="id_49"
+         cy="-661.89081"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle118" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="-9.2684355"
+         class="id_50"
+         cy="-71.489754"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle119" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="319.30997"
+         class="id_51"
+         cy="-1131.463"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle120" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="313.05728"
+         class="id_52"
+         cy="-1132.4098"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle121" />
+      <circle
+         fill-opacity="1"
+         fill="#43a57c"
+         r="6.7466669"
+         cx="-159.56277"
+         class="id_53"
+         cy="-75.097931"
+         stroke="#2e7356"
+         stroke-opacity="1"
+         stroke-width="1.17333"
+         id="circle122" />
+      <circle
+         fill-opacity="1"
+         fill="#93d4c1"
+         r="4.2933335"
+         cx="-178.6201"
+         class="id_54"
+         cy="-80.716728"
+         stroke="#669487"
+         stroke-opacity="1"
+         stroke-width="0.746667"
+         id="circle123" />
+      <circle
+         fill-opacity="1"
+         fill="#edf8fb"
+         r="1.84"
+         cx="-168.32549"
+         class="id_55"
+         cy="-77.960922"
+         stroke="#a5adaf"
+         stroke-opacity="1"
+         stroke-width="0.32"
+         id="circle124" />
+    </g>
+    <g
+       id="node-labels">
+      <text
+         font-size="16px"
+         x="-135.88043"
+         y="-67.47757"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_1"
+         id="text124">1</text>
+      <text
+         font-size="3px"
+         x="-65.670586"
+         y="-46.906128"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_2"
+         id="text125">2</text>
+      <text
+         font-size="3px"
+         x="-242.87119"
+         y="-1186.5519"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_3"
+         id="text126">3</text>
+      <text
+         font-size="3px"
+         x="1041.963"
+         y="-292.92078"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_4"
+         id="text127">4</text>
+      <text
+         font-size="3px"
+         x="-251.01819"
+         y="1125.2637"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_5"
+         id="text128">5</text>
+      <text
+         font-size="3px"
+         x="-1151.0818"
+         y="-395.55478"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_6"
+         id="text129">6</text>
+      <text
+         font-size="7px"
+         x="205.42474"
+         y="1120.6323"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_7"
+         id="text130">7</text>
+      <text
+         font-size="3px"
+         x="1113.2521"
+         y="-544.58984"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_8"
+         id="text131">8</text>
+      <text
+         font-size="3px"
+         x="211.61586"
+         y="1118.6577"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_9"
+         id="text132">9</text>
+      <text
+         font-size="3px"
+         x="1049.2321"
+         y="512.17285"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_10"
+         id="text133">10</text>
+      <text
+         font-size="3px"
+         x="-1010.3591"
+         y="-686.41156"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_11"
+         id="text134">11</text>
+      <text
+         font-size="3px"
+         x="-1105.9465"
+         y="452.69995"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_12"
+         id="text135">12</text>
+      <text
+         font-size="7px"
+         x="-18.931616"
+         y="-0.35273457"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_13"
+         id="text136">13</text>
+      <text
+         font-size="3px"
+         x="-590.4245"
+         y="915.00397"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_14"
+         id="text137">14</text>
+      <text
+         font-size="3px"
+         x="-506.35709"
+         y="1134.7803"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_15"
+         id="text138">15</text>
+      <text
+         font-size="16px"
+         x="1.557335"
+         y="9.8332253"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_16"
+         id="text139">16</text>
+      <text
+         font-size="3px"
+         x="1153.8229"
+         y="88.50396"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_17"
+         id="text140">17</text>
+      <text
+         font-size="3px"
+         x="-835.34747"
+         y="893.32263"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_18"
+         id="text141">18</text>
+      <text
+         font-size="7px"
+         x="56.704014"
+         y="-18.29262"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_19"
+         id="text142">19</text>
+      <text
+         font-size="7px"
+         x="43.877674"
+         y="-22.644266"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_20"
+         id="text143">20</text>
+      <text
+         font-size="3px"
+         x="1102.8962"
+         y="301.43164"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_21"
+         id="text144">21</text>
+      <text
+         font-size="12px"
+         x="22.161245"
+         y="67.93766"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_22"
+         id="text145">22</text>
+      <text
+         font-size="7px"
+         x="-6.0743699"
+         y="15.036571"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_23"
+         id="text146">23</text>
+      <text
+         font-size="3px"
+         x="-141.31287"
+         y="-82.082703"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_24"
+         id="text147">24</text>
+      <text
+         font-size="3px"
+         x="-14.215579"
+         y="26.0991"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_25"
+         id="text148">25</text>
+      <text
+         font-size="12px"
+         x="21.543779"
+         y="5.504395"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_26"
+         id="text149">26</text>
+      <text
+         font-size="12px"
+         x="26.914215"
+         y="39.46402"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_27"
+         id="text150">27</text>
+      <text
+         font-size="16px"
+         x="31.137257"
+         y="-8.1772795"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_28"
+         id="text151">28</text>
+      <text
+         font-size="12px"
+         x="35.141415"
+         y="19.648813"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_29"
+         id="text152">29</text>
+      <text
+         font-size="12px"
+         x="23.316748"
+         y="18.499632"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_30"
+         id="text153">30</text>
+      <text
+         font-size="3px"
+         x="-798.31836"
+         y="-922.7854"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_31"
+         id="text154">31</text>
+      <text
+         font-size="12px"
+         x="12.131161"
+         y="59.548584"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_32"
+         id="text155">32</text>
+      <text
+         font-size="3px"
+         x="1218.3741"
+         y="-144.92648"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_33"
+         id="text156">33</text>
+      <text
+         font-size="7px"
+         x="-44.301933"
+         y="-78.015717"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_34"
+         id="text157">34</text>
+      <text
+         font-size="7px"
+         x="-44.650902"
+         y="-96.729362"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_35"
+         id="text158">35</text>
+      <text
+         font-size="3px"
+         x="606.69214"
+         y="956.48602"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_36"
+         id="text159">36</text>
+      <text
+         font-size="3px"
+         x="-538.80896"
+         y="-1094.947"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_37"
+         id="text160">37</text>
+      <text
+         font-size="3px"
+         x="913.82068"
+         y="683.32776"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_38"
+         id="text161">38</text>
+      <text
+         font-size="3px"
+         x="-1189.7793"
+         y="189.42914"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_39"
+         id="text162">39</text>
+      <text
+         font-size="3px"
+         x="-976.28754"
+         y="676.94031"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_40"
+         id="text163">40</text>
+      <text
+         font-size="12px"
+         x="-60.833523"
+         y="-68.854698"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_41"
+         id="text164">41</text>
+      <text
+         font-size="7px"
+         x="38.390682"
+         y="3.4886155"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_42"
+         id="text165">42</text>
+      <text
+         font-size="3px"
+         x="-1216.1381"
+         y="-98.205963"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_43"
+         id="text166">43</text>
+      <text
+         font-size="7px"
+         x="-82.532539"
+         y="-46.056812"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_44"
+         id="text167">44</text>
+      <text
+         font-size="12px"
+         x="-48.032722"
+         y="-20.037218"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_45"
+         id="text168">45</text>
+      <text
+         font-size="3px"
+         x="816.01434"
+         y="885.14612"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_46"
+         id="text169">46</text>
+      <text
+         font-size="3px"
+         x="18.565926"
+         y="-45.189465"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_47"
+         id="text170">47</text>
+      <text
+         font-size="3px"
+         x="815.89642"
+         y="-896.10504"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_48"
+         id="text171">48</text>
+      <text
+         font-size="3px"
+         x="899.8526"
+         y="-661.34259"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_49"
+         id="text172">49</text>
+      <text
+         font-size="12px"
+         x="-9.2684355"
+         y="-69.296883"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_50"
+         id="text173">50</text>
+      <text
+         font-size="7px"
+         x="319.30997"
+         y="-1130.1838"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_51"
+         id="text174">51</text>
+      <text
+         font-size="3px"
+         x="313.05728"
+         y="-1131.8616"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_52"
+         id="text175">52</text>
+      <text
+         font-size="12px"
+         x="-159.56277"
+         y="-72.903595"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_53"
+         id="text176">53</text>
+      <text
+         font-size="7px"
+         x="-178.6201"
+         y="-79.44268"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_54"
+         id="text177">54</text>
+      <text
+         font-size="3px"
+         x="-168.32549"
+         y="-77.422226"
+         fill="#000000"
+         style="dominant-baseline:central;text-anchor:middle"
+         font-family="Arial"
+         class="id_55"
+         id="text178">55</text>
+    </g>
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.206668;stroke-dasharray:none"
+     id="rect180"
+     width="187.10461"
+     height="187.10461"
+     x="11.897103"
+     y="11.544731" />
+</svg>
