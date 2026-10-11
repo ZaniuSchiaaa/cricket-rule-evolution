@@ -36,8 +36,6 @@ FULL_YEAR_LIST = [
 
 # ── Path templates ─────────────────────────────────────────────────────────────
 
-NUM_LAWS_CSV = "./data/datasets/rule_set_structure/tree_measures/original/full-ruleset.csv"
-
 CITATION_CSV_TEMPLATE = (
     "./data/datasets/interdependency_networks/citation_tables"
     "/{year}_citation_table.csv"

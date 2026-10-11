@@ -57,7 +57,7 @@ N_COLS = 4
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-nltk.download("punkt")
+nltk.download("punkt_tab")
 nltk.download("stopwords")
 
 # ──────────────────────────────────────────────────────────────────────────────

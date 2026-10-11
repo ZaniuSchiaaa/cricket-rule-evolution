@@ -66,5 +66,5 @@ ax.set_title("Law rankings over time", fontsize=20)
 ax.legend()
 
 plt.tight_layout()
-plt.savefig("./figures/main_body/fig11/fig11_final_copy.svg", bbox_inches="tight")
+plt.savefig("./figures/main_body/fig11/fig11_final.svg", bbox_inches="tight")
 plt.show()
